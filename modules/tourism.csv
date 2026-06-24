@@ -1,0 +1,1283 @@
+name,country,state_or_region,continent,category,budget_level,climate,best_season,adventure,nightlife,family_friendly,trekking,beach_activities,cultural_sites,wildlife,shopping,popularity_score,safety_score,avg_cost_index,rating
+Mumbai,India,Maharashtra,Asia,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,98,75,45,4.5
+Delhi,India,Delhi,Asia,Urban,Mid-range,Continental,Winter,0,1,1,0,0,1,0,1,99,65,40,4.4
+Bangalore,India,Karnataka,Asia,Urban,Mid-range,Temperate,Year-round,0,1,1,0,0,1,0,1,95,85,50,4.6
+Chennai,India,Tamil Nadu,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,90,88,35,4.3
+Kolkata,India,West Bengal,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,92,82,30,4.5
+Hyderabad,India,Telangana,Asia,Urban,Mid-range,Tropical,Winter,0,1,1,0,0,1,0,1,93,85,42,4.6
+Ahmedabad,India,Gujarat,Asia,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,88,90,32,4.4
+Pune,India,Maharashtra,Asia,Urban,Mid-range,Temperate,Winter,1,1,1,1,0,1,0,1,89,88,40,4.5
+Jaipur,India,Rajasthan,Asia,Historical,Mid-range,Desert,Winter,1,1,1,0,0,1,0,1,97,85,45,4.8
+Lucknow,India,Uttar Pradesh,Asia,Urban,Budget,Subtropical,Winter,0,0,1,0,0,1,0,1,85,82,28,4.4
+Panaji,India,Goa,Asia,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,95,85,55,4.7
+Agra,India,Uttar Pradesh,Asia,Historical,Mid-range,Continental,Winter,0,0,1,0,0,1,0,1,99,70,40,4.7
+Varanasi,India,Uttar Pradesh,Asia,Religious,Budget,Subtropical,Winter,0,0,1,0,0,1,0,1,96,75,20,4.8
+Shimla,India,Himachal Pradesh,Asia,Mountain,Mid-range,Alpine,Summer,1,0,1,1,0,1,0,1,94,92,48,4.6
+Manali,India,Himachal Pradesh,Asia,Mountain,Mid-range,Alpine,Summer,1,1,1,1,0,0,0,1,96,88,45,4.7
+Srinagar,India,Jammu and Kashmir,Asia,Nature,Mid-range,Alpine,Summer,1,0,1,1,0,1,0,1,92,70,42,4.8
+Leh,India,Ladakh,Asia,Adventure,Mid-range,Alpine,Summer,1,0,0,1,0,1,0,0,91,95,50,4.9
+Gangtok,India,Sikkim,Asia,Mountain,Mid-range,Alpine,Spring,1,0,1,1,0,1,0,1,89,96,40,4.7
+Shillong,India,Meghalaya,Asia,Nature,Budget,Temperate,Autumn,1,0,1,1,0,1,0,1,87,90,35,4.6
+Itanagar,India,Arunachal Pradesh,Asia,Nature,Budget,Alpine,Spring,1,0,1,1,0,1,1,0,75,85,25,4.3
+Guwahati,India,Assam,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,1,1,86,80,30,4.2
+Patna,India,Bihar,Asia,Urban,Budget,Subtropical,Winter,0,0,1,0,0,1,0,1,80,72,22,4.0
+Raipur,India,Chhattisgarh,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,1,1,78,82,25,4.1
+Ranchi,India,Jharkhand,Asia,Nature,Budget,Temperate,Winter,1,0,1,1,0,0,1,1,79,78,28,4.2
+Bhubaneswar,India,Odisha,Asia,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,85,88,30,4.5
+Thiruvananthapuram,India,Kerala,Asia,Urban,Mid-range,Tropical,Winter,0,0,1,0,1,1,0,1,87,92,45,4.6
+Bhopal,India,Madhya Pradesh,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,84,85,30,4.3
+Dehradun,India,Uttarakhand,Asia,Mountain,Mid-range,Temperate,Spring,1,0,1,1,0,1,0,1,88,90,38,4.5
+Chandigarh,India,Chandigarh,Asia,Urban,Mid-range,Continental,Spring,0,1,1,0,0,1,0,1,90,95,55,4.7
+Imphal,India,Manipur,Asia,Nature,Budget,Temperate,Autumn,1,0,1,1,0,1,0,1,72,65,25,4.1
+Aizawl,India,Mizoram,Asia,Mountain,Budget,Temperate,Autumn,1,0,1,1,0,0,0,1,70,90,25,4.2
+Kohima,India,Nagaland,Asia,Mountain,Budget,Temperate,Winter,1,0,1,1,0,1,0,1,74,85,28,4.4
+Agartala,India,Tripura,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,70,88,22,4.0
+Port Blair,India,Andaman and Nicobar,Asia,Island,Mid-range,Tropical,Winter,1,0,1,0,1,1,1,1,88,94,65,4.7
+Kavaratti,India,Lakshadweep,Asia,Island,Budget,Tropical,Winter,1,0,1,0,1,0,1,0,80,96,40,4.6
+Puducherry,India,Puducherry,Asia,Beach,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,89,90,50,4.7
+Daman,India,Dadra and Nagar Haveli,Asia,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,78,85,35,4.2
+Udaipur,India,Rajasthan,Asia,Historical,Luxury,Desert,Winter,0,1,1,0,0,1,0,1,96,92,75,4.9
+Jodhpur,India,Rajasthan,Asia,Historical,Mid-range,Desert,Winter,0,1,1,0,0,1,0,1,93,88,48,4.7
+Jaisalmer,India,Rajasthan,Asia,Historical,Mid-range,Desert,Winter,1,1,1,1,0,1,0,1,92,90,50,4.8
+Pushkar,India,Rajasthan,Asia,Religious,Budget,Desert,Winter,0,1,0,0,0,1,0,1,88,85,25,4.5
+Ranthambore,India,Rajasthan,Asia,Wildlife,Luxury,Desert,Winter,1,0,1,0,0,0,1,0,91,85,80,4.7
+Mount Abu,India,Rajasthan,Asia,Mountain,Mid-range,Temperate,Summer,1,0,1,1,0,1,0,1,86,90,45,4.4
+Amritsar,India,Punjab,Asia,Religious,Budget,Continental,Winter,0,0,1,0,0,1,0,1,97,90,30,4.9
+Gulmarg,India,Jammu and Kashmir,Asia,Adventure,Luxury,Alpine,Winter,1,0,1,1,0,0,0,0,90,75,85,4.9
+Pahalgam,India,Jammu and Kashmir,Asia,Nature,Mid-range,Alpine,Summer,1,0,1,1,0,0,0,1,89,82,50,4.8
+Nainital,India,Uttarakhand,Asia,Mountain,Mid-range,Temperate,Summer,1,0,1,1,0,1,0,1,92,91,46,4.6
+Mussoorie,India,Uttarakhand,Asia,Mountain,Mid-range,Temperate,Summer,1,0,1,1,0,1,0,1,91,90,48,4.5
+Rishikesh,India,Uttarakhand,Asia,Adventure,Budget,Temperate,Spring,1,0,1,1,0,1,0,1,95,92,30,4.8
+Haridwar,India,Uttarakhand,Asia,Religious,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,94,88,25,4.7
+Auli,India,Uttarakhand,Asia,Adventure,Mid-range,Alpine,Winter,1,0,1,1,0,0,0,0,85,94,55,4.8
+Jim Corbett,India,Uttarakhand,Asia,Wildlife,Mid-range,Temperate,Winter,1,0,1,0,0,0,1,0,92,85,60,4.7
+Khajuraho,India,Madhya Pradesh,Asia,Historical,Mid-range,Continental,Winter,0,0,1,0,0,1,0,1,90,88,40,4.8
+Gwalior,India,Madhya Pradesh,Asia,Historical,Budget,Continental,Winter,0,0,1,0,0,1,0,1,84,85,32,4.5
+Orchha,India,Madhya Pradesh,Asia,Historical,Budget,Tropical,Winter,1,0,1,0,0,1,0,0,82,90,28,4.6
+Kanha,India,Madhya Pradesh,Asia,Wildlife,Mid-range,Tropical,Winter,1,0,1,0,0,0,1,0,89,88,55,4.8
+Bandhavgarh,India,Madhya Pradesh,Asia,Wildlife,Luxury,Tropical,Winter,1,0,1,0,0,0,1,0,88,85,75,4.7
+Sanchi,India,Madhya Pradesh,Asia,Historical,Budget,Tropical,Winter,0,0,1,0,0,1,0,0,83,92,25,4.6
+Munnar,India,Kerala,Asia,Mountain,Mid-range,Temperate,Winter,1,0,1,1,0,0,0,1,96,95,50,4.9
+Wayanad,India,Kerala,Asia,Nature,Mid-range,Tropical,Winter,1,0,1,1,0,0,1,0,90,94,45,4.7
+Kochi,India,Kerala,Asia,Historical,Mid-range,Tropical,Winter,0,1,1,0,0,1,0,1,93,92,52,4.7
+Alleppey,India,Kerala,Asia,Nature,Mid-range,Tropical,Winter,0,0,1,0,1,0,0,0,95,94,55,4.8
+Thekkady,India,Kerala,Asia,Wildlife,Mid-range,Tropical,Winter,1,0,1,1,0,0,1,1,91,93,48,4.7
+Varkala,India,Kerala,Asia,Beach,Budget,Tropical,Winter,1,1,1,0,1,1,0,1,88,88,35,4.6
+Kovalam,India,Kerala,Asia,Beach,Mid-range,Tropical,Winter,0,1,1,0,1,0,0,1,90,90,50,4.5
+Kumarakom,India,Kerala,Asia,Nature,Luxury,Tropical,Winter,0,0,1,0,0,0,0,0,87,95,85,4.8
+Ooty,India,Tamil Nadu,Asia,Mountain,Mid-range,Temperate,Summer,1,0,1,1,0,1,0,1,94,91,48,4.6
+Kodaikanal,India,Tamil Nadu,Asia,Mountain,Mid-range,Temperate,Summer,1,0,1,1,0,0,0,1,92,92,45,4.7
+Madurai,India,Tamil Nadu,Asia,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,91,88,30,4.8
+Rameswaram,India,Tamil Nadu,Asia,Religious,Budget,Tropical,Winter,1,0,1,0,1,1,0,0,90,90,32,4.7
+Kanyakumari,India,Tamil Nadu,Asia,Nature,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,92,90,35,4.6
+Mahabalipuram,India,Tamil Nadu,Asia,Historical,Mid-range,Tropical,Winter,1,0,1,0,1,1,0,1,89,92,45,4.7
+Hampi,India,Karnataka,Asia,Historical,Budget,Tropical,Winter,1,0,1,1,0,1,0,1,95,94,28,4.9
+Mysore,India,Karnataka,Asia,Historical,Budget,Temperate,Winter,0,0,1,0,0,1,0,1,93,95,35,4.7
+Coorg,India,Karnataka,Asia,Nature,Mid-range,Temperate,Winter,1,0,1,1,0,0,0,1,94,96,55,4.8
+Gokarna,India,Karnataka,Asia,Beach,Budget,Tropical,Winter,1,1,0,1,1,1,0,1,87,85,30,4.6
+Badami,India,Karnataka,Asia,Historical,Budget,Tropical,Winter,1,0,1,1,0,1,0,0,82,88,25,4.6
+Chikmagalur,India,Karnataka,Asia,Mountain,Mid-range,Temperate,Winter,1,0,1,1,0,0,0,0,86,94,45,4.7
+Bandipur,India,Karnataka,Asia,Wildlife,Mid-range,Tropical,Winter,1,0,1,0,0,0,1,0,85,90,55,4.6
+Visakhapatnam,India,Andhra Pradesh,Asia,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,1,1,1,88,88,40,4.4
+Tirupati,India,Andhra Pradesh,Asia,Religious,Mid-range,Tropical,Year-round,0,0,1,1,0,1,0,1,98,95,45,4.9
+Vijayawada,India,Andhra Pradesh,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,82,85,30,4.2
+Leh,India,Ladakh,Asia,Adventure,Mid-range,Alpine,Summer,1,0,1,1,0,1,0,1,94,98,55,4.9
+Pangong Tso,India,Ladakh,Asia,Nature,Mid-range,Alpine,Summer,1,0,1,0,0,0,1,0,93,95,60,4.9
+Nubra Valley,India,Ladakh,Asia,Adventure,Mid-range,Alpine,Summer,1,0,1,1,0,1,0,0,88,94,55,4.8
+Kargil,India,Ladakh,Asia,Historical,Budget,Alpine,Summer,1,0,1,1,0,1,0,0,80,90,30,4.5
+Darjeeling,India,West Bengal,Asia,Mountain,Mid-range,Temperate,Spring,1,0,1,1,0,1,0,1,95,92,45,4.7
+Kalimpong,India,West Bengal,Asia,Mountain,Budget,Temperate,Spring,1,0,1,1,0,1,0,1,84,94,32,4.5
+Digha,India,West Bengal,Asia,Beach,Budget,Tropical,Winter,0,0,1,0,1,0,0,1,82,80,25,4.0
+Sundarbans,India,West Bengal,Asia,Wildlife,Mid-range,Tropical,Winter,1,0,1,0,0,0,1,0,88,75,45,4.6
+Konark,India,Odisha,Asia,Historical,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,90,90,30,4.8
+Puri,India,Odisha,Asia,Religious,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,94,85,32,4.6
+Cuttack,India,Odisha,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,80,85,28,4.1
+Kaziranga,India,Assam,Asia,Wildlife,Mid-range,Tropical,Winter,1,0,1,0,0,0,1,0,94,88,50,4.9
+Majuli,India,Assam,Asia,Nature,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,85,95,25,4.8
+Tawang,India,Arunachal Pradesh,Asia,Religious,Mid-range,Alpine,Autumn,1,0,1,1,0,1,0,0,86,96,40,4.8
+Ziro,India,Arunachal Pradesh,Asia,Nature,Budget,Temperate,Autumn,1,0,1,1,0,1,0,0,80,94,28,4.7
+Cherrapunji,India,Meghalaya,Asia,Nature,Budget,Temperate,Summer,1,0,1,1,0,0,0,0,91,92,35,4.8
+Dawki,India,Meghalaya,Asia,Nature,Budget,Temperate,Winter,1,0,1,0,1,0,0,0,88,93,30,4.7
+Dharamshala,India,Himachal Pradesh,Asia,Religious,Budget,Temperate,Spring,1,1,1,1,0,1,0,1,94,95,35,4.8
+Dalhousie,India,Himachal Pradesh,Asia,Mountain,Mid-range,Alpine,Summer,1,0,1,1,0,1,0,1,89,94,42,4.6
+Kasauli,India,Himachal Pradesh,Asia,Mountain,Mid-range,Temperate,Summer,1,0,1,1,0,0,0,1,85,96,48,4.5
+Spiti Valley,India,Himachal Pradesh,Asia,Adventure,Budget,Alpine,Summer,1,0,0,1,0,1,0,0,89,95,35,4.9
+Khajjiar,India,Himachal Pradesh,Asia,Nature,Budget,Alpine,Summer,1,0,1,1,0,0,0,1,87,95,30,4.7
+Mahabaleshwar,India,Maharashtra,Asia,Mountain,Mid-range,Temperate,Winter,1,0,1,1,0,1,0,1,91,92,50,4.6
+Lonavala,India,Maharashtra,Asia,Mountain,Mid-range,Temperate,Autumn,1,1,1,1,0,0,0,1,93,90,55,4.4
+Aurangabad,India,Maharashtra,Asia,Historical,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,89,85,40,4.7
+Nashik,India,Maharashtra,Asia,Religious,Mid-range,Temperate,Winter,1,1,1,1,0,1,0,1,87,90,45,4.5
+Shirdi,India,Maharashtra,Asia,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,96,92,30,4.6
+Tadoba,India,Maharashtra,Asia,Wildlife,Mid-range,Tropical,Winter,1,0,1,0,0,0,1,0,86,85,55,4.7
+Ajanta Caves,India,Maharashtra,Asia,Historical,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,0,94,92,45,4.9
+Ellora Caves,India,Maharashtra,Asia,Historical,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,0,94,92,45,4.9
+Gir National Park,India,Gujarat,Asia,Wildlife,Mid-range,Desert,Winter,1,0,1,0,0,0,1,0,92,90,50,4.8
+Somnath,India,Gujarat,Asia,Religious,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,91,94,30,4.7
+Dwarka,India,Gujarat,Asia,Religious,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,90,93,30,4.7
+Rann of Kutch,India,Gujarat,Asia,Nature,Mid-range,Desert,Winter,1,0,1,0,0,1,0,1,93,95,65,4.8
+Saputara,India,Gujarat,Asia,Mountain,Budget,Temperate,Summer,1,0,1,1,0,1,1,1,80,92,35,4.3
+Statue of Unity,India,Gujarat,Asia,Urban,Mid-range,Tropical,Winter,1,0,1,0,0,1,0,1,95,96,60,4.7
+Khajuraho,India,Madhya Pradesh,Asia,Historical,Mid-range,Continental,Winter,0,0,1,0,0,1,0,1,92,88,42,4.8
+Ujjain,India,Madhya Pradesh,Asia,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,93,88,28,4.7
+Bodhgaya,India,Bihar,Asia,Religious,Budget,Subtropical,Winter,0,0,1,0,0,1,0,1,92,85,25,4.8
+Nalanda,India,Bihar,Asia,Historical,Budget,Subtropical,Winter,0,0,1,0,0,1,0,0,86,88,25,4.7
+Paris,France,Ile-de-France,Europe,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,100,85,95,4.8
+London,UK,England,Europe,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,100,82,98,4.7
+New York City,USA,New York,North America,Urban,Luxury,Continental,Autumn,0,1,1,0,0,1,0,1,100,75,100,4.7
+Tokyo,Japan,Kanto,Asia,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,99,98,90,4.9
+Dubai,UAE,Dubai,Middle East,Urban,Luxury,Desert,Winter,1,1,1,0,1,0,0,1,99,95,95,4.6
+Singapore,Singapore,Singapore,Asia,Urban,Luxury,Tropical,Year-round,0,1,1,0,0,0,0,1,98,99,92,4.8
+Rome,Italy,Lazio,Europe,Historical,Mid-range,Mediterranean,Spring,0,1,1,0,0,1,0,1,99,80,75,4.8
+Venice,Italy,Veneto,Europe,Historical,Luxury,Mediterranean,Spring,0,1,1,0,0,1,0,1,98,88,95,4.7
+Florence,Italy,Tuscany,Europe,Historical,Mid-range,Mediterranean,Autumn,0,1,1,0,0,1,0,1,96,92,75,4.9
+Barcelona,Spain,Catalonia,Europe,Urban,Mid-range,Mediterranean,Summer,0,1,1,0,1,1,0,1,97,82,70,4.6
+Madrid,Spain,Madrid,Europe,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,0,1,0,1,95,85,65,4.6
+Seville,Spain,Andalusia,Europe,Historical,Mid-range,Mediterranean,Spring,0,1,1,0,0,1,0,1,92,90,60,4.7
+Amsterdam,Netherlands,North Holland,Europe,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,97,88,85,4.6
+Berlin,Germany,Berlin,Europe,Urban,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,95,85,65,4.5
+Munich,Germany,Bavaria,Europe,Urban,Mid-range,Continental,Autumn,0,1,1,0,0,1,0,1,94,92,75,4.7
+Vienna,Austria,Vienna,Europe,Urban,Mid-range,Continental,Spring,0,1,1,0,0,1,0,1,93,96,75,4.8
+Prague,Czech Republic,Prague,Europe,Historical,Budget,Continental,Autumn,0,1,1,0,0,1,0,1,96,90,45,4.8
+Budapest,Hungary,Central Hungary,Europe,Urban,Budget,Continental,Autumn,0,1,1,0,0,1,0,1,95,88,42,4.7
+Athens,Greece,Attica,Europe,Historical,Budget,Mediterranean,Spring,0,1,1,0,0,1,0,1,94,78,50,4.6
+Santorini,Greece,Cyclades,Europe,Island,Luxury,Mediterranean,Summer,1,1,0,0,1,1,0,1,98,92,98,4.9
+Mykonos,Greece,Cyclades,Europe,Island,Luxury,Mediterranean,Summer,0,1,0,0,1,0,0,1,95,90,95,4.5
+Istanbul,Turkey,Marmara,Europe,Historical,Budget,Mediterranean,Spring,0,1,1,0,0,1,0,1,98,80,40,4.8
+Antalya,Turkey,Mediterranean,Europe,Beach,Budget,Mediterranean,Summer,1,1,1,0,1,1,0,1,92,85,35,4.6
+Cairo,Egypt,Cairo,Africa,Historical,Budget,Desert,Winter,0,1,1,0,0,1,0,1,95,65,30,4.4
+Luxor,Egypt,Luxor,Africa,Historical,Budget,Desert,Winter,1,0,1,0,0,1,0,0,92,75,35,4.9
+Cape Town,South Africa,Western Cape,Africa,Urban,Mid-range,Mediterranean,Summer,1,1,1,1,1,1,1,1,96,65,55,4.8
+Johannesburg,South Africa,Gauteng,Africa,Urban,Mid-range,Temperate,Summer,0,1,1,0,0,1,1,1,88,50,50,4.2
+Nairobi,Kenya,Nairobi,Africa,Urban,Mid-range,Temperate,Year-round,1,1,1,0,0,1,1,1,87,60,45,4.5
+Marrakech,Morocco,Marrakesh-Safi,Africa,Historical,Budget,Desert,Spring,0,1,1,0,0,1,0,1,95,82,35,4.7
+Casablanca,Morocco,Casablanca-Settat,Africa,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,1,1,0,1,88,80,45,4.3
+Sydney,Australia,New South Wales,Oceania,Urban,Luxury,Temperate,Summer,1,1,1,0,1,1,1,1,98,90,90,4.8
+Melbourne,Australia,Victoria,Oceania,Urban,Luxury,Temperate,Summer,0,1,1,0,1,1,0,1,96,92,88,4.7
+Auckland,New Zealand,Auckland,Oceania,Urban,Mid-range,Temperate,Summer,1,1,1,1,1,0,1,1,90,95,80,4.6
+Queenstown,New Zealand,Otago,Oceania,Adventure,Luxury,Alpine,Winter,1,1,1,1,0,0,0,1,94,98,92,4.9
+Rio de Janeiro,Brazil,Rio de Janeiro,South America,Beach,Mid-range,Tropical,Summer,1,1,1,1,1,1,0,1,97,60,60,4.7
+Buenos Aires,Argentina,Buenos Aires,South America,Urban,Mid-range,Temperate,Autumn,0,1,1,0,0,1,0,1,94,75,55,4.6
+Machu Picchu,Peru,Cusco,South America,Historical,Mid-range,Alpine,Autumn,1,0,0,1,0,1,0,0,99,85,65,4.9
+Cusco,Peru,Cusco,South America,Historical,Budget,Alpine,Autumn,1,1,1,1,0,1,0,1,94,82,35,4.8
+Toronto,Canada,Ontario,North America,Urban,Luxury,Continental,Summer,0,1,1,0,0,1,0,1,95,92,90,4.6
+Vancouver,Canada,British Columbia,North America,Nature,Luxury,Temperate,Summer,1,1,1,1,1,1,1,1,94,94,92,4.8
+Montreal,Canada,Quebec,North America,Urban,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,92,90,75,4.7
+Mexico City,Mexico,CDMX,North America,Urban,Budget,Temperate,Spring,0,1,1,0,0,1,0,1,95,68,40,4.7
+Cancun,Mexico,Quintana Roo,North America,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,96,75,70,4.5
+Havana,Cuba,La Habana,North America,Historical,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,90,85,40,4.6
+Bangkok,Thailand,Bangkok,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,99,78,35,4.7
+Phuket,Thailand,Phuket,Asia,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,97,80,55,4.6
+Chiang Mai,Thailand,Chiang Mai,Asia,Historical,Budget,Tropical,Winter,1,1,1,1,0,1,0,1,94,90,30,4.8
+Bali,Indonesia,Bali,Asia,Island,Budget,Tropical,Year-round,1,1,1,1,1,1,1,1,99,88,40,4.9
+Jakarta,Indonesia,Jakarta,Asia,Urban,Mid-range,Tropical,Year-round,0,1,1,0,0,0,0,1,88,70,45,4.1
+Hanoi,Vietnam,Hanoi,Asia,Urban,Budget,Subtropical,Autumn,0,1,1,0,0,1,0,1,94,88,25,4.7
+Ho Chi Minh City,Vietnam,Ho Chi Minh,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,93,85,28,4.6
+Siem Reap,Cambodia,Siem Reap,Asia,Historical,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,96,88,25,4.9
+Kyoto,Japan,Kansai,Asia,Historical,Mid-range,Temperate,Autumn,0,0,1,0,0,1,0,1,98,99,75,4.9
+Osaka,Japan,Kansai,Asia,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,95,98,70,4.7
+Seoul,South Korea,Seoul,Asia,Urban,Mid-range,Continental,Autumn,0,1,1,0,0,1,0,1,97,97,75,4.8
+Jerusalem,Israel,Jerusalem,Middle East,Religious,Mid-range,Mediterranean,Spring,0,0,1,0,0,1,0,1,96,82,85,4.8
+Petra,Jordan,Ma'an,Middle East,Historical,Mid-range,Desert,Spring,1,0,1,1,0,1,0,0,97,90,70,4.9
+Muscat,Oman,Muscat,Middle East,Urban,Mid-range,Desert,Winter,0,0,1,0,1,1,0,1,85,96,65,4.5
+Doha,Qatar,Doha,Middle East,Urban,Luxury,Desert,Winter,0,1,1,0,1,1,0,1,90,95,90,4.4
+Riyadh,Saudi Arabia,Riyadh,Middle East,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,88,92,75,4.3
+Mecca,Saudi Arabia,Makkah,Middle East,Religious,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,99,95,70,4.9
+Lisbon,Portugal,Lisbon,Europe,Urban,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,95,90,50,4.7
+Porto,Portugal,Porto,Europe,Historical,Budget,Mediterranean,Autumn,0,1,1,0,1,1,0,1,92,92,45,4.7
+Dubrovnik,Croatia,Dalmatia,Europe,Historical,Mid-range,Mediterranean,Summer,1,1,1,0,1,1,0,1,94,92,85,4.8
+Split,Croatia,Dalmatia,Europe,Historical,Mid-range,Mediterranean,Summer,1,1,1,0,1,1,0,1,90,92,75,4.7
+Reykjavik,Iceland,Capital Region,Europe,Nature,Luxury,Alpine,Summer,1,1,1,1,0,1,1,1,94,99,98,4.8
+Oslo,Norway,Oslo,Europe,Urban,Luxury,Continental,Summer,0,1,1,1,0,1,0,1,88,98,95,4.5
+Stockholm,Sweden,Stockholm,Europe,Urban,Luxury,Continental,Summer,0,1,1,0,1,1,0,1,91,95,92,4.6
+Copenhagen,Denmark,Capital Region,Europe,Urban,Luxury,Temperate,Summer,0,1,1,0,0,1,0,1,93,97,95,4.7
+Helsinki,Finland,Uusimaa,Europe,Urban,Luxury,Continental,Summer,0,1,1,0,1,1,0,1,86,98,90,4.4
+Tallinn,Estonia,Harju,Europe,Historical,Budget,Continental,Summer,0,1,1,0,0,1,0,1,88,94,45,4.7
+Riga,Latvia,Riga,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,85,90,40,4.5
+Vilnius,Lithuania,Vilnius,Europe,Historical,Budget,Continental,Summer,0,1,1,0,0,1,0,1,84,92,38,4.6
+Warsaw,Poland,Masovia,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,89,90,40,4.6
+Krakow,Poland,Lesser Poland,Europe,Historical,Budget,Continental,Summer,0,1,1,0,0,1,0,1,94,92,35,4.8
+Bratislava,Slovakia,Bratislava,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,82,90,40,4.4
+Ljubljana,Slovenia,Ljubljana,Europe,Nature,Mid-range,Temperate,Spring,1,1,1,1,0,1,0,1,87,96,55,4.8
+Zürich,Switzerland,Zurich,Europe,Urban,Luxury,Temperate,Summer,0,1,1,1,0,1,0,1,92,98,100,4.6
+Geneva,Switzerland,Geneva,Europe,Urban,Luxury,Temperate,Summer,0,1,1,0,1,1,0,1,90,97,98,4.5
+Zermatt,Switzerland,Valais,Europe,Mountain,Luxury,Alpine,Winter,1,1,1,1,0,0,0,1,95,98,95,4.9
+Interlaken,Switzerland,Bern,Europe,Adventure,Luxury,Alpine,Summer,1,1,1,1,0,0,0,1,93,98,94,4.8
+Brussels,Belgium,Brussels,Europe,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,90,82,85,4.3
+Bruges,Belgium,Flanders,Europe,Historical,Mid-range,Temperate,Spring,0,0,1,0,0,1,0,1,94,95,75,4.8
+Luxembourg City,Luxembourg,Luxembourg,Europe,Urban,Luxury,Temperate,Summer,0,1,1,0,0,1,0,1,82,98,95,4.5
+Dublin,Ireland,Leinster,Europe,Urban,Mid-range,Temperate,Summer,0,1,1,0,0,1,0,1,94,88,88,4.6
+Edinburgh,UK,Scotland,Europe,Historical,Mid-range,Temperate,Summer,1,1,1,1,0,1,0,1,96,92,80,4.8
+Glasgow,UK,Scotland,Europe,Urban,Mid-range,Temperate,Summer,0,1,1,0,0,1,0,1,88,80,70,4.4
+Belfast,UK,Northern Ireland,Europe,Urban,Mid-range,Temperate,Summer,0,1,1,0,0,1,0,1,85,85,65,4.3
+Cardiff,UK,Wales,Europe,Urban,Mid-range,Temperate,Summer,0,1,1,0,0,1,0,1,83,88,65,4.2
+Nice,France,Provence-Alpes-Côte d'Azur,Europe,Beach,Luxury,Mediterranean,Summer,0,1,1,0,1,1,0,1,95,88,92,4.6
+Lyon,France,Auvergne-Rhône-Alpes,Europe,Urban,Mid-range,Continental,Spring,0,1,1,0,0,1,0,1,90,85,75,4.7
+Marseille,France,Provence-Alpes-Côte d'Azur,Europe,Urban,Mid-range,Mediterranean,Summer,0,1,1,0,1,1,0,1,87,75,70,4.2
+Bordeaux,France,Nouvelle-Aquitaine,Europe,Urban,Mid-range,Temperate,Autumn,0,1,1,0,0,1,0,1,89,88,80,4.7
+Strasbourg,France,Grand Est,Europe,Historical,Mid-range,Continental,Winter,0,1,1,0,0,1,0,1,91,92,75,4.8
+Venice,Italy,Veneto,Europe,Historical,Luxury,Mediterranean,Spring,0,1,1,0,0,1,0,1,98,88,95,4.7
+Milan,Italy,Lombardy,Europe,Urban,Luxury,Continental,Autumn,0,1,1,0,0,1,0,1,96,82,92,4.6
+Naples,Italy,Campania,Europe,Historical,Budget,Mediterranean,Spring,0,1,1,0,0,1,0,1,92,70,55,4.5
+Verona,Italy,Veneto,Europe,Historical,Mid-range,Continental,Spring,0,1,1,0,0,1,0,1,90,92,70,4.7
+Palermo,Italy,Sicily,Europe,Historical,Budget,Mediterranean,Summer,0,1,1,0,1,1,0,1,88,72,50,4.4
+Valencia,Spain,Valencia,Europe,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,1,1,0,1,92,88,60,4.6
+Bilbao,Spain,Basque Country,Europe,Urban,Mid-range,Temperate,Autumn,0,1,1,0,0,1,0,1,88,90,70,4.7
+Granada,Spain,Andalusia,Europe,Historical,Budget,Mediterranean,Spring,1,1,1,1,0,1,0,1,95,88,45,4.9
+Ibiza,Spain,Balearic Islands,Europe,Island,Luxury,Mediterranean,Summer,0,1,0,0,1,0,0,1,96,80,95,4.4
+Salzburg,Austria,Salzburg,Europe,Historical,Mid-range,Alpine,Spring,1,1,1,1,0,1,0,1,94,96,75,4.8
+Innsbruck,Austria,Tyrol,Europe,Mountain,Mid-range,Alpine,Winter,1,1,1,1,0,1,0,1,91,96,72,4.8
+Ghent,Belgium,Flanders,Europe,Historical,Mid-range,Temperate,Autumn,0,1,1,0,0,1,0,1,89,95,65,4.7
+Antwerp,Belgium,Flanders,Europe,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,87,88,75,4.6
+Rotterdam,Netherlands,South Holland,Europe,Urban,Mid-range,Temperate,Summer,0,1,1,0,0,1,0,1,88,90,80,4.5
+Utrecht,Netherlands,Utrecht,Europe,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,85,94,75,4.6
+Cologne,Germany,North Rhine-Westphalia,Europe,Urban,Mid-range,Continental,Winter,0,1,1,0,0,1,0,1,90,88,70,4.5
+Frankfurt,Germany,Hesse,Europe,Urban,Luxury,Continental,Autumn,0,1,1,0,0,1,0,1,91,85,90,4.3
+Hamburg,Germany,Hamburg,Europe,Urban,Mid-range,Temperate,Summer,0,1,1,0,0,1,0,1,92,85,80,4.6
+Heidelberg,Germany,Baden-Württemberg,Europe,Historical,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,89,94,70,4.8
+Nuremberg,Germany,Bavaria,Europe,Historical,Mid-range,Continental,Winter,0,1,1,0,0,1,0,1,87,90,65,4.7
+Zaragoza,Spain,Aragon,Europe,Historical,Budget,Continental,Spring,0,1,1,0,0,1,0,1,82,88,45,4.4
+Faro,Portugal,Algarve,Europe,Beach,Budget,Mediterranean,Summer,1,1,1,0,1,1,0,1,86,90,45,4.5
+Coimbra,Portugal,Centro,Europe,Historical,Budget,Mediterranean,Autumn,0,0,1,0,0,1,0,1,84,92,40,4.6
+Bucharest,Romania,Bucharest,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,86,82,35,4.3
+Brasov,Romania,Transylvania,Europe,Mountain,Budget,Continental,Winter,1,1,1,1,0,1,1,1,88,90,32,4.7
+Sofia,Bulgaria,Sofia,Europe,Urban,Budget,Continental,Autumn,0,1,1,0,0,1,0,1,84,85,30,4.4
+Plovdiv,Bulgaria,Plovdiv,Europe,Historical,Budget,Continental,Spring,0,1,1,0,0,1,0,1,82,88,28,4.6
+Belgrade,Serbia,Belgrade,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,88,80,35,4.5
+Zagreb,Croatia,Zagreb,Europe,Urban,Budget,Continental,Autumn,0,1,1,0,0,1,0,1,87,92,45,4.5
+Ljubljana,Slovenia,Ljubljana,Europe,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,89,98,55,4.8
+Bratislava,Slovakia,Bratislava,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,83,90,40,4.3
+Tbilisi,Georgia,Tbilisi,Asia,Historical,Budget,Continental,Spring,1,1,1,1,0,1,0,1,91,92,30,4.8
+Baku,Azerbaijan,Absheron,Asia,Urban,Mid-range,Desert,Autumn,0,1,1,0,1,1,0,1,88,94,50,4.5
+Yerevan,Armenia,Yerevan,Asia,Historical,Budget,Continental,Autumn,1,1,1,1,0,1,0,1,86,95,28,4.7
+Astana,Kazakhstan,Akmo,Asia,Urban,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,80,90,45,4.2
+Almaty,Kazakhstan,Almaty,Asia,Mountain,Budget,Continental,Autumn,1,1,1,1,0,1,0,1,85,88,35,4.6
+Tashkent,Uzbekistan,Tashkent,Asia,Urban,Budget,Continental,Spring,0,0,1,0,0,1,0,1,82,90,25,4.4
+Samarkand,Uzbekistan,Samarkand,Asia,Historical,Budget,Desert,Spring,0,0,1,0,0,1,0,1,94,92,25,4.9
+Bukhara,Uzbekistan,Bukhara,Asia,Historical,Budget,Desert,Spring,0,0,1,0,0,1,0,1,90,94,22,4.8
+Ulaanbaatar,Mongolia,Ulaanbaatar,Asia,Urban,Budget,Continental,Summer,1,1,1,0,0,1,0,1,78,82,25,4.1
+Beijing,China,Beijing,Asia,Historical,Mid-range,Continental,Autumn,0,1,1,0,0,1,0,1,98,90,60,4.7
+Shanghai,China,Shanghai,Asia,Urban,Luxury,Temperate,Autumn,0,1,1,0,0,0,0,1,97,92,85,4.6
+Xi'an,China,Shaanxi,Asia,Historical,Mid-range,Continental,Spring,0,0,1,0,0,1,0,1,95,92,45,4.8
+Guilin,China,Guangxi,Asia,Nature,Mid-range,Tropical,Spring,1,0,1,0,0,1,0,1,92,90,45,4.8
+Hong Kong,China,Hong Kong,Asia,Urban,Luxury,Tropical,Winter,0,1,1,1,1,0,0,1,98,92,95,4.7
+Macau,China,Macau,Asia,Urban,Luxury,Tropical,Winter,0,1,1,0,0,1,0,1,94,94,90,4.4
+Taipei,Taiwan,Taipei,Asia,Urban,Mid-range,Subtropical,Autumn,0,1,1,1,0,1,0,1,95,98,60,4.8
+Kaohsiung,Taiwan,Kaohsiung,Asia,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,88,96,55,4.6
+Seoul,South Korea,Seoul,Asia,Urban,Mid-range,Continental,Autumn,0,1,1,0,0,1,0,1,97,97,75,4.8
+Busan,South Korea,Busan,Asia,Beach,Mid-range,Temperate,Summer,0,1,1,0,1,1,0,1,92,96,65,4.7
+Jeju Island,South Korea,Jeju,Asia,Island,Mid-range,Temperate,Spring,1,0,1,1,1,0,0,1,94,98,70,4.8
+Hiroshima,Japan,Chugoku,Asia,Historical,Mid-range,Temperate,Spring,0,0,1,0,0,1,0,1,92,98,65,4.8
+Nara,Japan,Kansai,Asia,Historical,Mid-range,Temperate,Autumn,0,0,1,0,0,1,1,1,94,99,60,4.9
+Sapporo,Japan,Hokkaido,Asia,Urban,Mid-range,Continental,Winter,1,1,1,1,0,0,0,1,91,98,75,4.7
+Fukuoka,Japan,Kyushu,Asia,Urban,Mid-range,Temperate,Spring,0,1,1,0,1,0,0,1,89,98,65,4.6
+Manila,Philippines,NCR,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,90,65,35,4.1
+Boracay,Philippines,Aklan,Asia,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,0,0,1,94,82,55,4.7
+Cebu City,Philippines,Cebu,Asia,Urban,Budget,Tropical,Winter,1,1,1,0,1,1,0,1,89,75,35,4.3
+Kuala Lumpur,Malaysia,Kuala Lumpur,Asia,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,96,85,35,4.6
+Penang,Malaysia,Penang,Asia,Historical,Budget,Tropical,Year-round,0,1,1,0,1,1,0,1,93,88,30,4.7
+Langkawi,Malaysia,Kedah,Asia,Island,Mid-range,Tropical,Year-round,1,1,1,0,1,0,1,1,91,90,50,4.7
+Bandar Seri Begawan,Brunei,Brunei-Muara,Asia,Religious,Luxury,Tropical,Year-round,0,0,1,0,0,1,0,1,75,98,80,4.3
+Dili,East Timor,Dili,Asia,Beach,Budget,Tropical,Summer,1,0,1,0,1,0,0,0,65,70,30,3.8
+Colombo,Sri Lanka,Western Province,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,88,82,30,4.3
+Kandy,Sri Lanka,Central Province,Asia,Historical,Budget,Tropical,Winter,1,0,1,1,0,1,1,1,90,88,28,4.7
+Galle,Sri Lanka,Southern Province,Asia,Historical,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,92,90,45,4.8
+Male,Maldives,Kaafu Atoll,Asia,Island,Luxury,Tropical,Winter,1,0,1,0,1,0,1,1,95,95,100,4.7
+Kathmandu,Nepal,Bagmati,Asia,Historical,Budget,Temperate,Autumn,1,1,1,1,0,1,0,1,94,80,20,4.7
+Pokhara,Nepal,Gandaki,Asia,Adventure,Budget,Temperate,Autumn,1,1,1,1,0,0,0,1,93,88,22,4.9
+Thimphu,Bhutan,Thimphu,Asia,Religious,Mid-range,Alpine,Autumn,1,0,1,1,0,1,0,1,88,98,70,4.8
+Paro,Bhutan,Paro,Asia,Religious,Mid-range,Alpine,Spring,1,0,1,1,0,1,0,1,90,99,75,4.9
+Dhaka,Bangladesh,Dhaka,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,82,60,15,3.9
+Karachi,Pakistan,Sindh,Asia,Urban,Budget,Desert,Winter,0,1,1,0,1,1,0,1,85,55,18,3.8
+Lahore,Pakistan,Punjab,Asia,Historical,Budget,Continental,Winter,0,1,1,0,0,1,0,1,88,65,20,4.4
+Islamabad,Pakistan,ICT,Asia,Urban,Budget,Temperate,Autumn,1,0,1,1,0,0,1,1,84,80,25,4.3
+Tehran,Iran,Tehran,Middle East,Urban,Budget,Continental,Spring,1,1,1,1,0,1,0,1,85,82,25,4.2
+Isfahan,Iran,Isfahan,Middle East,Historical,Budget,Desert,Autumn,0,0,1,0,0,1,0,1,92,88,22,4.8
+Shiraz,Iran,Fars,Middle East,Historical,Budget,Desert,Spring,0,0,1,0,0,1,0,1,90,90,22,4.7
+Baghdad,Iraq,Baghdad,Middle East,Historical,Budget,Desert,Winter,0,0,1,0,0,1,0,1,70,40,20,3.5
+Damascus,Syria,Damascus,Middle East,Historical,Budget,Mediterranean,Spring,0,0,1,0,0,1,0,1,65,30,15,3.2
+Beirut,Lebanon,Beirut,Middle East,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,1,1,0,1,88,65,55,4.4
+Amman,Jordan,Amman,Middle East,Urban,Mid-range,Desert,Autumn,0,1,1,0,0,1,0,1,87,88,50,4.4
+Kuwait City,Kuwait,Kuwait,Middle East,Urban,Luxury,Desert,Winter,0,1,1,0,1,1,0,1,82,94,85,4.1
+Manama,Bahrain,Manama,Middle East,Urban,Mid-range,Desert,Winter,0,1,1,0,1,1,0,1,84,92,70,4.2
+Sanaa,Yemen,Sanaa,Middle East,Historical,Budget,Desert,Winter,0,0,1,0,0,1,0,1,50,20,15,3.0
+Nicosia,Cyprus,Nicosia,Europe,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,0,1,0,1,80,90,65,4.2
+Limassol,Cyprus,Limassol,Europe,Beach,Mid-range,Mediterranean,Summer,1,1,1,0,1,1,0,1,85,92,75,4.5
+Tel Aviv,Israel,Tel Aviv,Middle East,Beach,Luxury,Mediterranean,Summer,0,1,1,0,1,0,0,1,96,88,98,4.7
+Washington D.C.,USA,D.C.,North America,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,96,80,95,4.6
+Los Angeles,USA,California,North America,Urban,Luxury,Mediterranean,Year-round,0,1,1,1,1,1,0,1,99,75,98,4.6
+Chicago,USA,Illinois,North America,Urban,Luxury,Continental,Summer,0,1,1,0,1,1,0,1,95,72,90,4.5
+San Francisco,USA,California,North America,Urban,Luxury,Mediterranean,Autumn,0,1,1,1,1,1,0,1,97,78,100,4.7
+Miami,USA,Florida,North America,Beach,Luxury,Tropical,Winter,1,1,1,0,1,0,0,1,98,75,95,4.5
+Las Vegas,USA,Nevada,North America,Urban,Luxury,Desert,Year-round,0,1,1,0,0,0,0,1,99,78,92,4.4
+Seattle,USA,Washington,North America,Urban,Mid-range,Temperate,Summer,1,1,1,1,1,0,0,1,92,82,85,4.6
+Boston,USA,Massachusetts,North America,Historical,Luxury,Continental,Autumn,0,1,1,0,0,1,0,1,94,85,95,4.7
+New Orleans,USA,Louisiana,North America,Historical,Mid-range,Subtropical,Spring,0,1,1,0,0,1,0,1,93,65,70,4.6
+Honolulu,USA,Hawaii,North America,Island,Luxury,Tropical,Year-round,1,1,1,1,1,0,1,1,96,90,98,4.8
+Anchorage,USA,Alaska,North America,Nature,Mid-range,Alpine,Summer,1,0,1,1,0,0,1,1,85,88,80,4.7
+Ottawa,Canada,Ontario,North America,Urban,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,88,94,80,4.4
+Quebec City,Canada,Quebec,North America,Historical,Mid-range,Continental,Winter,0,1,1,0,0,1,0,1,92,95,75,4.8
+Calgary,Canada,Alberta,North America,Urban,Mid-range,Continental,Summer,1,1,1,1,0,0,0,1,86,92,75,4.4
+Edmonton,Canada,Alberta,North America,Urban,Mid-range,Continental,Summer,0,1,1,0,0,0,0,1,82,88,70,4.1
+Victoria,Canada,British Columbia,North America,Urban,Mid-range,Temperate,Summer,0,0,1,0,1,1,1,1,85,96,80,4.6
+San Juan,Puerto Rico,San Juan,North America,Historical,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,90,78,75,4.6
+Santo Domingo,Dominican Republic,Distrito Nacional,North America,Historical,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,85,70,45,4.3
+Punta Cana,Dominican Republic,La Altagracia,North America,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,0,0,1,94,82,65,4.5
+Kingston,Jamaica,Surrey,North America,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,55,40,4.0
+Montego Bay,Jamaica,Cornwall,North America,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,0,0,1,90,70,60,4.3
+Nassau,Bahamas,New Providence,North America,Beach,Luxury,Tropical,Winter,1,1,1,0,1,0,1,1,92,80,95,4.5
+Bridgetown,Barbados,Saint Michael,North America,Beach,Luxury,Tropical,Winter,1,1,1,0,1,1,0,1,88,92,90,4.6
+Castries,Saint Lucia,Castries,North America,Nature,Luxury,Tropical,Winter,1,0,1,1,1,0,0,1,86,90,95,4.7
+St. George's,Grenada,Saint George,North America,Beach,Mid-range,Tropical,Winter,1,0,1,0,1,1,0,1,82,92,75,4.5
+Port of Spain,Trinidad and Tobago,Saint George,South America,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,78,60,55,4.0
+Georgetown,Guyana,Demerara-Mahaica,South America,Nature,Budget,Tropical,Year-round,1,0,1,1,0,0,1,0,65,60,35,3.7
+Paramaribo,Suriname,Paramaribo,South America,Historical,Budget,Tropical,Year-round,0,0,1,0,0,1,0,1,68,75,30,4.0
+Cayenne,French Guiana,Cayenne,South America,Nature,Mid-range,Tropical,Year-round,1,0,1,1,1,0,1,0,60,78,65,3.8
+Caracas,Venezuela,Capital District,South America,Urban,Budget,Tropical,Year-round,0,1,1,1,1,1,0,1,70,25,30,3.2
+Bogota,Colombia,Bogota,South America,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,90,65,35,4.4
+Medellin,Colombia,Antioquia,South America,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,92,72,35,4.7
+Cartagena,Colombia,Bolivar,South America,Historical,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,94,80,55,4.8
+Quito,Ecuador,Pichincha,South America,Historical,Budget,Temperate,Year-round,1,1,1,1,0,1,0,1,88,75,30,4.6
+Guayaquil,Ecuador,Guayas,South America,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,60,35,4.1
+Galapagos Islands,Ecuador,Galapagos,South America,Wildlife,Luxury,Tropical,Year-round,1,0,1,1,1,0,1,0,96,95,100,4.9
+Lima,Peru,Lima,South America,Urban,Budget,Temperate,Winter,0,1,1,0,1,1,0,1,92,70,40,4.5
+Arequipa,Peru,Arequipa,South America,Historical,Budget,Desert,Autumn,1,1,1,1,0,1,0,1,88,85,30,4.7
+La Paz,Bolivia,La Paz,South America,Urban,Budget,Alpine,Spring,1,1,1,1,0,1,0,1,89,72,25,4.4
+Santa Cruz,Bolivia,Santa Cruz,South America,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,80,78,30,4.1
+Asuncion,Paraguay,Distrito Capital,South America,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,72,75,25,3.9
+Santiago,Chile,Santiago,South America,Urban,Mid-range,Mediterranean,Autumn,1,1,1,1,1,1,0,1,92,85,65,4.6
+Valparaiso,Chile,Valparaiso,South America,Historical,Budget,Mediterranean,Summer,0,1,1,0,1,1,0,1,88,78,45,4.7
+Easter Island,Chile,Valparaiso,Oceania,Historical,Luxury,Subtropical,Autumn,1,0,0,1,0,1,0,0,88,95,98,4.8
+Montevideo,Uruguay,Montevideo,South America,Urban,Mid-range,Temperate,Summer,0,1,1,0,1,1,0,1,85,90,70,4.5
+Punta del Este,Uruguay,Maldonado,South America,Beach,Luxury,Temperate,Summer,1,1,1,0,1,0,0,1,90,92,95,4.6
+Sao Paulo,Brazil,Sao Paulo,South America,Urban,Mid-range,Temperate,Winter,0,1,1,0,0,1,0,1,95,65,70,4.5
+Salvador,Brazil,Bahia,South America,Historical,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,90,60,45,4.6
+Brasilia,Brazil,Federal District,South America,Urban,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,82,82,60,4.2
+Manaus,Brazil,Amazonas,South America,Wildlife,Budget,Tropical,Year-round,1,0,1,1,0,0,1,1,84,70,45,4.5
+Iguazu Falls,Brazil,Parana,South America,Nature,Mid-range,Tropical,Spring,1,0,1,0,0,0,1,1,97,88,60,4.9
+Mendoza,Argentina,Mendoza,South America,Nature,Mid-range,Desert,Autumn,1,1,1,1,0,1,0,1,90,90,55,4.8
+Ushuaia,Argentina,Tierra del Fuego,South America,Adventure,Mid-range,Alpine,Summer,1,0,1,1,0,0,1,1,88,94,75,4.7
+El Calafate,Argentina,Santa Cruz,South America,Nature,Mid-range,Alpine,Summer,1,0,1,1,0,0,1,0,91,95,70,4.8
+Luanda,Angola,Luanda,Africa,Urban,Luxury,Tropical,Winter,0,1,1,0,1,1,0,1,72,45,95,3.6
+Lagos,Nigeria,Lagos,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,85,40,40,3.8
+Abuja,Nigeria,FCT,Africa,Urban,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,78,60,55,3.9
+Accra,Ghana,Greater Accra,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,85,35,4.3
+Dakar,Senegal,Dakar,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,78,35,4.2
+Addis Ababa,Ethiopia,Addis Ababa,Africa,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,84,75,25,4.1
+Dar es Salaam,Tanzania,Dar es Salaam,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,82,72,30,4.0
+Zanzibar City,Tanzania,Zanzibar,Africa,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,95,85,60,4.8
+Serengeti,Tanzania,Mara,Africa,Wildlife,Luxury,Tropical,Summer,1,0,1,0,0,0,1,0,98,85,95,4.9
+Arusha,Tanzania,Arusha,Africa,Nature,Mid-range,Temperate,Summer,1,0,1,1,0,0,1,1,85,82,55,4.5
+Kampala,Uganda,Kampala,Africa,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,78,70,25,4.1
+Kigali,Rwanda,Kigali,Africa,Urban,Budget,Temperate,Year-round,0,0,1,0,0,1,0,1,82,96,35,4.6
+Windhoek,Namibia,Khomas,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,75,90,55,4.2
+Swakopmund,Namibia,Erongo,Africa,Adventure,Mid-range,Desert,Winter,1,1,1,1,1,0,1,1,84,92,60,4.6
+Antananarivo,Madagascar,Analamanga,Africa,Urban,Budget,Temperate,Autumn,0,0,1,0,0,1,1,1,70,65,25,3.8
+Port Louis,Mauritius,Port Louis,Africa,Island,Luxury,Tropical,Year-round,1,1,1,0,1,1,1,1,92,94,90,4.7
+Victoria,Seychelles,Mahé,Africa,Island,Luxury,Tropical,Year-round,1,0,1,0,1,1,1,1,90,95,98,4.8
+Algiers,Algeria,Algiers,Africa,Urban,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,74,75,30,3.9
+Tunis,Tunisia,Tunis,Africa,Historical,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,85,82,30,4.3
+Djerba,Tunisia,Medenine,Africa,Beach,Budget,Mediterranean,Summer,1,1,1,0,1,1,0,1,82,85,35,4.4
+Tripoli,Libya,Tripoli,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,40,15,20,2.5
+Khartoum,Sudan,Khartoum,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,45,20,15,2.8
+Banjul,Gambia,Banjul,Africa,Beach,Budget,Tropical,Winter,1,1,1,0,1,0,0,1,72,82,25,4.0
+Bamako,Mali,Bamako,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,55,30,20,3.2
+Niamey,Niger,Niamey,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,52,35,20,3.1
+Ndjamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Bangui,Central African Republic,Ombella-M'Poko,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,0,1,1,35,10,25,2.2
+Libreville,Gabon,Estuaire,Africa,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,1,1,68,75,70,3.8
+Brazzaville,Congo,Brazzaville,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,62,65,45,3.5
+Kinshasa,DR Congo,Kinshasa,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,0,0,1,70,35,50,3.4
+Lusaka,Zambia,Lusaka,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,1,1,72,80,35,4.0
+Livingstone,Zambia,Southern,Africa,Adventure,Mid-range,Tropical,Winter,1,1,1,1,0,0,1,1,90,85,55,4.8
+Harare,Zimbabwe,Harare,Africa,Urban,Budget,Temperate,Winter,0,1,1,0,0,1,1,1,74,65,30,3.7
+Victoria Falls,Zimbabwe,Matabeleland North,Africa,Nature,Mid-range,Tropical,Winter,1,1,1,1,0,0,1,1,95,88,65,4.9
+Maputo,Mozambique,Maputo City,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,76,70,40,4.1
+Gaborone,Botswana,South-East,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,1,1,70,92,55,4.2
+Maun,Botswana,North-West,Africa,Wildlife,Mid-range,Desert,Winter,1,0,1,1,0,0,1,1,88,90,70,4.8
+Maseru,Lesotho,Maseru,Africa,Mountain,Budget,Temperate,Summer,1,0,1,1,0,1,0,0,65,85,25,4.1
+Mbabane,Eswatini,Hhohho,Africa,Nature,Budget,Temperate,Summer,1,0,1,1,0,1,1,1,68,88,30,4.2
+Saint-Denis,Reunion,Saint-Denis,Africa,Nature,Luxury,Tropical,Winter,1,1,1,1,1,1,0,1,82,94,95,4.7
+Mamoudzou,Mayotte,Mamoudzou,Africa,Island,Mid-range,Tropical,Winter,1,0,1,0,1,0,1,0,65,80,75,3.9
+Moroni,Comoros,Grande Comore,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,0,0,60,75,40,3.6
+Djibouti City,Djibouti,Djibouti,Africa,Urban,Mid-range,Desert,Winter,1,0,1,0,1,0,0,1,62,85,85,3.5
+Asmara,Eritrea,Maekel,Africa,Historical,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,64,88,20,4.3
+Mogadishu,Somalia,Banaadir,Africa,Beach,Budget,Tropical,Winter,0,0,0,0,1,0,0,0,30,10,15,2.0
+Hargeisa,Somaliland,Maroodi Jeex,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,55,75,20,3.4
+Port Sudan,Sudan,Red Sea,Africa,Beach,Budget,Desert,Winter,1,0,1,0,1,0,0,0,58,40,25,3.2
+Freetown,Sierra Leone,Western Area,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,60,30,3.6
+Monrovia,Liberia,Montserrado,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,60,55,35,3.4
+Conakry,Guinea,Conakry,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,62,55,30,3.3
+Bissau,Guinea-Bissau,Bissau,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,58,60,25,3.2
+Praia,Cape Verde,Santiago,Africa,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,78,88,55,4.2
+Mindelo,Cape Verde,Sao Vicente,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,90,45,4.4
+Sao Tome,Sao Tome and Principe,Agua Grande,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,1,0,70,92,40,4.3
+Malabo,Equatorial Guinea,Bioko Norte,Africa,Urban,Luxury,Tropical,Winter,0,0,1,0,1,1,0,1,65,80,100,3.5
+Nouakchott,Mauritania,Nouakchott,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,55,70,35,3.2
+El Aaiun,Western Sahara,Laayoune,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,50,55,30,3.1
+Baku,Azerbaijan,Absheron,Asia,Urban,Mid-range,Desert,Autumn,0,1,1,0,1,1,0,1,88,94,50,4.5
+Tbilisi,Georgia,Tbilisi,Asia,Historical,Budget,Continental,Spring,1,1,1,1,0,1,0,1,91,92,30,4.8
+Astana,Kazakhstan,Akmo,Asia,Urban,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,80,90,45,4.2
+Ashgabat,Turkmenistan,Ashgabat,Asia,Urban,Luxury,Desert,Spring,0,0,1,0,0,1,0,1,65,95,95,3.5
+Dushanbe,Tajikistan,Dushanbe,Asia,Mountain,Budget,Continental,Summer,1,0,1,1,0,1,0,1,72,88,25,4.2
+Bishkek,Kyrgyzstan,Bishkek,Asia,Mountain,Budget,Continental,Summer,1,1,1,1,0,1,0,1,78,85,25,4.4
+Almaty,Kazakhstan,Almaty,Asia,Mountain,Mid-range,Continental,Autumn,1,1,1,1,0,1,0,1,86,88,40,4.7
+Bukhara,Uzbekistan,Bukhara,Asia,Historical,Budget,Desert,Spring,0,0,1,0,0,1,0,1,90,94,22,4.8
+Khiva,Uzbekistan,Xorazm,Asia,Historical,Budget,Desert,Autumn,0,0,1,0,0,1,0,0,88,95,22,4.8
+Samarkand,Uzbekistan,Samarkand,Asia,Historical,Budget,Desert,Spring,0,0,1,0,0,1,0,1,94,92,25,4.9
+Ulaanbaatar,Mongolia,Ulaanbaatar,Asia,Urban,Budget,Continental,Summer,1,1,1,0,0,1,0,1,78,82,25,4.1
+Pyongyang,North Korea,Pyongyang,Asia,Urban,Mid-range,Continental,Spring,0,0,0,0,0,1,0,0,50,98,60,3.0
+Seoul,South Korea,Seoul,Asia,Urban,Mid-range,Continental,Autumn,0,1,1,0,0,1,0,1,97,97,75,4.8
+Busan,South Korea,Busan,Asia,Beach,Mid-range,Temperate,Summer,0,1,1,0,1,1,0,1,92,96,65,4.7
+Tokyo,Japan,Kanto,Asia,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,99,98,90,4.9
+Kyoto,Japan,Kansai,Asia,Historical,Mid-range,Temperate,Autumn,0,0,1,0,0,1,0,1,98,99,75,4.9
+Osaka,Japan,Kansai,Asia,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,95,98,70,4.7
+Nagoya,Japan,Chubu,Asia,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,88,98,65,4.4
+Sapporo,Japan,Hokkaido,Asia,Mountain,Mid-range,Continental,Winter,1,1,1,1,0,0,0,1,91,98,75,4.7
+Fukuoka,Japan,Kyushu,Asia,Urban,Mid-range,Temperate,Spring,0,1,1,0,1,0,0,1,89,98,65,4.6
+Hiroshima,Japan,Chugoku,Asia,Historical,Mid-range,Temperate,Spring,0,0,1,0,0,1,0,1,92,98,65,4.8
+Nara,Japan,Kansai,Asia,Historical,Mid-range,Temperate,Autumn,0,0,1,0,0,1,1,1,94,99,60,4.9
+Okinawa,Japan,Okinawa,Asia,Island,Mid-range,Tropical,Year-round,1,1,1,0,1,1,1,1,92,96,75,4.7
+Taipei,Taiwan,Taipei,Asia,Urban,Mid-range,Subtropical,Autumn,0,1,1,1,0,1,0,1,95,98,60,4.8
+Kaohsiung,Taiwan,Kaohsiung,Asia,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,88,96,55,4.6
+Hualien,Taiwan,Hualien,Asia,Nature,Mid-range,Subtropical,Spring,1,0,1,1,1,0,0,1,85,96,50,4.7
+Beijing,China,Beijing,Asia,Historical,Mid-range,Continental,Autumn,0,1,1,0,0,1,0,1,98,90,60,4.7
+Shanghai,China,Shanghai,Asia,Urban,Luxury,Temperate,Autumn,0,1,1,0,0,0,0,1,97,92,85,4.6
+Xi'an,China,Shaanxi,Asia,Historical,Mid-range,Continental,Spring,0,0,1,0,0,1,0,1,95,92,45,4.8
+Guilin,China,Guangxi,Asia,Nature,Mid-range,Tropical,Spring,1,0,1,0,0,1,0,1,92,90,45,4.8
+Chengdu,China,Sichuan,Asia,Urban,Mid-range,Subtropical,Autumn,0,1,1,0,0,1,1,1,94,90,50,4.8
+Lhasa,China,Tibet,Asia,Religious,Mid-range,Alpine,Summer,1,0,1,1,0,1,0,1,91,92,60,4.8
+Hong Kong,China,Hong Kong,Asia,Urban,Luxury,Tropical,Winter,0,1,1,1,1,0,0,1,98,92,95,4.7
+Macau,China,Macau,Asia,Urban,Luxury,Tropical,Winter,0,1,1,0,0,1,0,1,94,94,90,4.4
+Ulaanbaatar,Mongolia,Ulaanbaatar,Asia,Urban,Budget,Continental,Summer,1,1,1,0,0,1,0,1,78,82,25,4.1
+Manila,Philippines,NCR,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,90,65,35,4.1
+Boracay,Philippines,Aklan,Asia,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,0,0,1,94,82,55,4.7
+Cebu City,Philippines,Cebu,Asia,Urban,Budget,Tropical,Winter,1,1,1,0,1,1,0,1,89,75,35,4.3
+Davao City,Philippines,Davao,Asia,Urban,Budget,Tropical,Year-round,1,1,1,1,1,0,1,1,85,80,30,4.2
+Puerto Princesa,Philippines,Palawan,Asia,Nature,Budget,Tropical,Year-round,1,0,1,1,1,1,1,1,92,88,35,4.8
+Bangkok,Thailand,Bangkok,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,99,78,35,4.7
+Phuket,Thailand,Phuket,Asia,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,97,80,55,4.6
+Chiang Mai,Thailand,Chiang Mai,Asia,Historical,Budget,Tropical,Winter,1,1,1,1,0,1,0,1,94,90,30,4.8
+Pattaya,Thailand,Chonburi,Asia,Beach,Budget,Tropical,Winter,1,1,1,0,1,0,0,1,92,72,40,4.1
+Koh Samui,Thailand,Surat Thani,Asia,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,93,85,60,4.7
+Krabi,Thailand,Krabi,Asia,Nature,Budget,Tropical,Winter,1,1,1,1,1,0,0,1,95,88,35,4.8
+Kuala Lumpur,Malaysia,Kuala Lumpur,Asia,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,96,85,35,4.6
+Penang,Malaysia,Penang,Asia,Historical,Budget,Tropical,Year-round,0,1,1,0,1,1,0,1,93,88,30,4.7
+Langkawi,Malaysia,Kedah,Asia,Island,Mid-range,Tropical,Year-round,1,1,1,0,1,0,1,1,91,90,50,4.7
+Kota Kinabalu,Malaysia,Sabah,Asia,Nature,Mid-range,Tropical,Year-round,1,1,1,1,1,0,1,1,88,88,45,4.6
+Kuching,Malaysia,Sarawak,Asia,Urban,Budget,Tropical,Year-round,1,0,1,1,0,1,1,1,85,92,30,4.5
+Singapore,Singapore,Singapore,Asia,Urban,Luxury,Tropical,Year-round,0,1,1,0,0,0,0,1,98,99,92,4.8
+Jakarta,Indonesia,Jakarta,Asia,Urban,Mid-range,Tropical,Year-round,0,1,1,0,0,0,0,1,88,70,45,4.1
+Bali,Indonesia,Bali,Asia,Island,Budget,Tropical,Year-round,1,1,1,1,1,1,1,1,99,88,40,4.9
+Yogyakarta,Indonesia,Yogyakarta,Asia,Historical,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,92,90,25,4.8
+Surabaya,Indonesia,East Java,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,84,82,30,4.1
+Medan,Indonesia,North Sumatra,Asia,Urban,Budget,Tropical,Year-round,1,0,1,1,0,1,1,1,80,75,28,4.0
+Bandar Seri Begawan,Brunei,Brunei-Muara,Asia,Religious,Luxury,Tropical,Year-round,0,0,1,0,0,1,0,1,75,98,80,4.3
+Hanoi,Vietnam,Hanoi,Asia,Urban,Budget,Subtropical,Autumn,0,1,1,0,0,1,0,1,94,88,25,4.7
+Ho Chi Minh City,Vietnam,Ho Chi Minh,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,93,85,28,4.6
+Da Nang,Vietnam,Da Nang,Asia,Beach,Budget,Tropical,Spring,1,1,1,1,1,1,0,1,92,90,30,4.7
+Hoi An,Vietnam,Quang Nam,Asia,Historical,Budget,Tropical,Spring,0,0,1,0,1,1,0,1,95,94,25,4.9
+Hue,Vietnam,Thua Thien Hue,Asia,Historical,Budget,Tropical,Spring,0,0,1,0,0,1,0,0,88,92,22,4.6
+Nha Trang,Vietnam,Khanh Hoa,Asia,Beach,Budget,Tropical,Summer,1,1,1,0,1,0,0,1,89,85,35,4.3
+Phnom Penh,Cambodia,Phnom Penh,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,86,75,25,4.2
+Siem Reap,Cambodia,Siem Reap,Asia,Historical,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,96,88,25,4.9
+Vientiane,Laos,Vientiane,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,82,90,22,4.1
+Luang Prabang,Laos,Luang Prabang,Asia,Religious,Budget,Tropical,Winter,1,0,1,1,0,1,0,1,91,95,28,4.8
+Yangon,Myanmar,Yangon,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,84,70,25,4.2
+Mandalay,Myanmar,Mandalay,Asia,Historical,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,82,65,22,4.1
+Bagan,Myanmar,Mandalay,Asia,Historical,Budget,Tropical,Winter,1,0,1,1,0,1,0,0,93,72,30,4.9
+Male,Maldives,Kaafu Atoll,Asia,Island,Luxury,Tropical,Winter,1,0,1,0,1,0,1,1,95,95,100,4.7
+Colombo,Sri Lanka,Western Province,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,88,82,30,4.3
+Kandy,Sri Lanka,Central Province,Asia,Historical,Budget,Tropical,Winter,1,0,1,1,0,1,1,1,90,88,28,4.7
+Galle,Sri Lanka,Southern Province,Asia,Historical,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,92,90,45,4.8
+Kathmandu,Nepal,Bagmati,Asia,Historical,Budget,Temperate,Autumn,1,1,1,1,0,1,0,1,94,80,20,4.7
+Pokhara,Nepal,Gandaki,Asia,Adventure,Budget,Temperate,Autumn,1,1,1,1,0,0,0,1,93,88,22,4.9
+Thimphu,Bhutan,Thimphu,Asia,Religious,Mid-range,Alpine,Autumn,1,0,1,1,0,1,0,1,88,98,70,4.8
+Paro,Bhutan,Paro,Asia,Religious,Mid-range,Alpine,Spring,1,0,1,1,0,1,0,1,90,99,75,4.9
+Dhaka,Bangladesh,Dhaka,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,82,60,15,3.9
+Karachi,Pakistan,Sindh,Asia,Urban,Budget,Desert,Winter,0,1,1,0,1,1,0,1,85,55,18,3.8
+Lahore,Pakistan,Punjab,Asia,Historical,Budget,Continental,Winter,0,1,1,0,0,1,0,1,88,65,20,4.4
+Islamabad,Pakistan,ICT,Asia,Urban,Budget,Temperate,Autumn,1,0,1,1,0,0,1,1,84,80,25,4.3
+Tehran,Iran,Tehran,Middle East,Urban,Budget,Continental,Spring,1,1,1,1,0,1,0,1,85,82,25,4.2
+Isfahan,Iran,Isfahan,Middle East,Historical,Budget,Desert,Autumn,0,0,1,0,0,1,0,1,92,88,22,4.8
+Dubai,UAE,Dubai,Middle East,Urban,Luxury,Desert,Winter,1,1,1,0,1,0,0,1,99,95,95,4.6
+Abu Dhabi,UAE,Abu Dhabi,Middle East,Urban,Luxury,Desert,Winter,1,1,1,0,1,1,0,1,94,98,90,4.5
+Doha,Qatar,Doha,Middle East,Urban,Luxury,Desert,Winter,0,1,1,0,1,1,0,1,90,95,90,4.4
+Muscat,Oman,Muscat,Middle East,Urban,Mid-range,Desert,Winter,0,0,1,0,1,1,0,1,85,96,65,4.5
+Kuwait City,Kuwait,Kuwait,Middle East,Urban,Luxury,Desert,Winter,0,1,1,0,1,1,0,1,82,94,85,4.1
+Manama,Bahrain,Manama,Middle East,Urban,Mid-range,Desert,Winter,0,1,1,0,1,1,0,1,84,92,70,4.2
+Riyadh,Saudi Arabia,Riyadh,Middle East,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,88,92,75,4.3
+Jeddah,Saudi Arabia,Makkah,Middle East,Urban,Mid-range,Desert,Winter,0,1,1,0,1,1,0,1,86,88,65,4.2
+Mecca,Saudi Arabia,Makkah,Middle East,Religious,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,99,95,70,4.9
+Medina,Saudi Arabia,Al Madinah,Middle East,Religious,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,98,96,65,4.9
+Amman,Jordan,Amman,Middle East,Urban,Mid-range,Desert,Autumn,0,1,1,0,0,1,0,1,87,88,50,4.4
+Petra,Jordan,Ma'an,Middle East,Historical,Mid-range,Desert,Spring,1,0,1,1,0,1,0,0,97,90,70,4.9
+Jerusalem,Israel,Jerusalem,Middle East,Religious,Mid-range,Mediterranean,Spring,0,0,1,0,0,1,0,1,96,82,85,4.8
+Tel Aviv,Israel,Tel Aviv,Middle East,Beach,Luxury,Mediterranean,Summer,0,1,1,0,1,0,0,1,96,88,98,4.7
+Beirut,Lebanon,Beirut,Middle East,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,1,1,0,1,88,65,55,4.4
+Damascus,Syria,Damascus,Middle East,Historical,Budget,Mediterranean,Spring,0,0,1,0,0,1,0,1,65,30,15,3.2
+Baghdad,Iraq,Baghdad,Middle East,Historical,Budget,Desert,Winter,0,0,1,0,0,1,0,1,70,40,20,3.5
+Cairo,Egypt,Cairo,Africa,Historical,Budget,Desert,Winter,0,1,1,0,0,1,0,1,95,65,30,4.4
+Alexandria,Egypt,Alexandria,Africa,Urban,Budget,Mediterranean,Winter,0,1,1,0,1,1,0,1,88,72,35,4.2
+Luxor,Egypt,Luxor,Africa,Historical,Budget,Desert,Winter,1,0,1,0,0,1,0,0,92,75,35,4.9
+Aswan,Egypt,Aswan,Africa,Historical,Budget,Desert,Winter,1,0,1,0,0,1,0,0,89,85,30,4.7
+Tunis,Tunisia,Tunis,Africa,Historical,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,85,82,30,4.3
+Algiers,Algeria,Algiers,Africa,Urban,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,74,75,30,3.9
+Marrakech,Morocco,Marrakesh-Safi,Africa,Historical,Budget,Desert,Spring,0,1,1,0,0,1,0,1,95,82,35,4.7
+Casablanca,Morocco,Casablanca-Settat,Africa,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,1,1,0,1,88,80,45,4.3
+Fes,Morocco,Fès-Meknès,Africa,Historical,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,92,85,30,4.8
+Chefchaouen,Morocco,Tangier-Tetouan-Al Hoceima,Africa,Urban,Budget,Temperate,Spring,1,0,1,1,0,1,0,1,90,92,28,4.8
+Dakar,Senegal,Dakar,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,78,35,4.2
+Accra,Ghana,Greater Accra,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,85,35,4.3
+Lagos,Nigeria,Lagos,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,85,40,40,3.8
+Nairobi,Kenya,Nairobi,Africa,Urban,Mid-range,Temperate,Year-round,1,1,1,0,0,1,1,1,87,60,45,4.5
+Mombasa,Kenya,Mombasa,Africa,Beach,Budget,Tropical,Winter,1,1,1,0,1,1,0,1,85,65,35,4.2
+Dar es Salaam,Tanzania,Dar es Salaam,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,82,72,30,4.0
+Zanzibar City,Tanzania,Zanzibar,Africa,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,95,85,60,4.8
+Serengeti,Tanzania,Mara,Africa,Wildlife,Luxury,Tropical,Summer,1,0,1,0,0,0,1,0,98,85,95,4.9
+Addis Ababa,Ethiopia,Addis Ababa,Africa,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,84,75,25,4.1
+Kampala,Uganda,Kampala,Africa,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,78,70,25,4.1
+Kigali,Rwanda,Kigali,Africa,Urban,Budget,Temperate,Year-round,0,0,1,0,0,1,0,1,82,96,35,4.6
+Johannesburg,South Africa,Gauteng,Africa,Urban,Mid-range,Temperate,Summer,0,1,1,0,0,1,1,1,88,50,50,4.2
+Cape Town,South Africa,Western Cape,Africa,Urban,Mid-range,Mediterranean,Summer,1,1,1,1,1,1,1,1,96,65,55,4.8
+Durban,South Africa,KwaZulu-Natal,Africa,Beach,Mid-range,Tropical,Year-round,1,1,1,0,1,0,0,1,85,55,45,4.0
+Port Louis,Mauritius,Port Louis,Africa,Island,Luxury,Tropical,Year-round,1,1,1,0,1,1,1,1,92,94,90,4.7
+Victoria,Seychelles,Mahé,Africa,Island,Luxury,Tropical,Year-round,1,0,1,0,1,1,1,1,90,95,98,4.8
+Antananarivo,Madagascar,Analamanga,Africa,Urban,Budget,Temperate,Autumn,0,0,1,0,0,1,1,1,70,65,25,3.8
+Sydney,Australia,New South Wales,Oceania,Urban,Luxury,Temperate,Summer,1,1,1,0,1,1,1,1,98,90,90,4.8
+Melbourne,Australia,Victoria,Oceania,Urban,Luxury,Temperate,Summer,0,1,1,0,1,1,0,1,96,92,88,4.7
+Brisbane,Australia,Queensland,Oceania,Urban,Mid-range,Subtropical,Summer,1,1,1,0,1,1,0,1,90,92,75,4.5
+Perth,Australia,Western Australia,Oceania,Beach,Mid-range,Mediterranean,Summer,1,1,1,0,1,0,0,1,88,94,75,4.6
+Adelaide,Australia,South Australia,Oceania,Urban,Mid-range,Mediterranean,Summer,0,1,1,0,1,1,0,1,85,95,70,4.4
+Canberra,Australia,ACT,Oceania,Urban,Mid-range,Temperate,Autumn,0,0,1,0,0,1,0,1,82,96,80,4.3
+Hobart,Australia,Tasmania,Oceania,Nature,Mid-range,Temperate,Summer,1,1,1,1,1,1,0,1,84,96,65,4.6
+Darwin,Australia,Northern Territory,Oceania,Urban,Mid-range,Tropical,Winter,1,1,1,0,1,0,1,1,80,88,70,4.1
+Gold Coast,Australia,Queensland,Oceania,Beach,Mid-range,Subtropical,Summer,1,1,1,0,1,0,0,1,94,90,80,4.5
+Cairns,Australia,Queensland,Oceania,Adventure,Mid-range,Tropical,Winter,1,1,1,1,1,0,1,1,92,88,75,4.7
+Auckland,New Zealand,Auckland,Oceania,Urban,Mid-range,Temperate,Summer,1,1,1,1,1,0,1,1,90,95,80,4.6
+Wellington,New Zealand,Wellington,Oceania,Urban,Mid-range,Temperate,Summer,0,1,1,1,0,1,0,1,88,96,85,4.5
+Christchurch,New Zealand,Canterbury,Oceania,Urban,Mid-range,Temperate,Summer,1,0,1,1,0,1,0,1,85,94,75,4.4
+Queenstown,New Zealand,Otago,Oceania,Adventure,Luxury,Alpine,Winter,1,1,1,1,0,0,0,1,94,98,92,4.9
+Rotorua,New Zealand,Bay of Plenty,Oceania,Nature,Mid-range,Temperate,Summer,1,0,1,1,0,1,0,1,88,96,70,4.7
+Suva,Fiji,Rewa,Oceania,Urban,Budget,Tropical,Year-round,0,1,1,0,1,0,0,1,75,85,50,3.9
+Nadi,Fiji,Ba,Oceania,Island,Mid-range,Tropical,Year-round,1,1,1,0,1,0,0,1,85,88,65,4.3
+Port Moresby,Papua New Guinea,NCD,Oceania,Urban,Budget,Tropical,Year-round,0,0,1,0,1,0,1,1,55,35,45,3.0
+Noumea,New Caledonia,South Province,Oceania,Beach,Luxury,Tropical,Summer,1,1,1,0,1,1,0,1,80,92,95,4.4
+Papeete,French Polynesia,Tahiti,Oceania,Island,Luxury,Tropical,Summer,1,1,1,0,1,1,0,1,88,94,100,4.6
+Bora Bora,French Polynesia,Leeward Islands,Oceania,Island,Luxury,Tropical,Year-round,1,0,1,0,1,0,1,0,96,96,100,4.9
+Apia,Samoa,Tuamasaga,Oceania,Island,Budget,Tropical,Year-round,1,0,1,0,1,1,1,0,72,90,45,4.2
+Nuku'alofa,Tonga,Tongatapu,Oceania,Island,Budget,Tropical,Year-round,1,0,1,0,1,1,0,0,68,92,40,4.1
+Honiara,Solomon Islands,Guadalcanal,Oceania,Island,Budget,Tropical,Year-round,1,0,1,0,1,1,1,0,60,70,35,3.5
+Port Vila,Vanuatu,Shefa,Oceania,Adventure,Mid-range,Tropical,Year-round,1,1,1,1,1,0,1,1,78,88,65,4.3
+Majuro,Marshall Islands,Majuro,Oceania,Island,Mid-range,Tropical,Year-round,1,0,0,0,1,0,1,0,55,85,70,3.4
+Palikir,Micronesia,Pohnpei,Oceania,Nature,Budget,Tropical,Year-round,1,0,0,1,0,0,1,0,52,90,40,3.6
+Koror,Palau,Koror,Oceania,Nature,Luxury,Tropical,Year-round,1,0,1,0,1,0,1,0,80,95,90,4.7
+Yaren,Nauru,Yaren,Oceania,Island,Budget,Tropical,Year-round,0,0,0,0,1,0,0,0,40,80,60,2.8
+Funafuti,Tuvalu,Funafuti,Oceania,Island,Budget,Tropical,Year-round,0,0,0,0,1,0,0,0,45,95,55,3.0
+South Tarawa,Kiribati,Gilbert Islands,Oceania,Island,Budget,Tropical,Year-round,0,0,0,0,1,0,0,0,48,85,45,3.1
+Rarotonga,Cook Islands,Rarotonga,Oceania,Island,Mid-range,Tropical,Year-round,1,1,1,1,1,0,1,1,84,96,75,4.6
+Niue,Niue,Niue,Oceania,Nature,Mid-range,Tropical,Year-round,1,0,0,1,1,0,1,0,58,98,70,4.0
+London,UK,England,Europe,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,100,82,98,4.7
+Paris,France,Ile-de-France,Europe,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,100,85,95,4.8
+Berlin,Germany,Berlin,Europe,Urban,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,95,85,65,4.5
+Madrid,Spain,Madrid,Europe,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,0,1,0,1,95,85,65,4.6
+Rome,Italy,Lazio,Europe,Historical,Mid-range,Mediterranean,Spring,0,1,1,0,0,1,0,1,99,80,75,4.8
+Athens,Greece,Attica,Europe,Historical,Budget,Mediterranean,Spring,0,1,1,0,0,1,0,1,94,78,50,4.6
+Vienna,Austria,Vienna,Europe,Urban,Mid-range,Continental,Spring,0,1,1,0,0,1,0,1,93,96,75,4.8
+Brussels,Belgium,Brussels,Europe,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,90,82,85,4.3
+Amsterdam,Netherlands,North Holland,Europe,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,97,88,85,4.6
+Bern,Switzerland,Bern,Europe,Urban,Luxury,Temperate,Summer,0,1,1,1,0,1,0,1,88,98,95,4.5
+Copenhagen,Denmark,Capital Region,Europe,Urban,Luxury,Temperate,Summer,0,1,1,0,0,1,0,1,93,97,95,4.7
+Oslo,Norway,Oslo,Europe,Urban,Luxury,Continental,Summer,0,1,1,1,0,1,0,1,88,98,95,4.5
+Stockholm,Sweden,Stockholm,Europe,Urban,Luxury,Continental,Summer,0,1,1,0,1,1,0,1,91,95,92,4.6
+Helsinki,Finland,Uusimaa,Europe,Urban,Luxury,Continental,Summer,0,1,1,0,1,1,0,1,86,98,90,4.4
+Lisbon,Portugal,Lisbon,Europe,Urban,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,95,90,50,4.7
+Dublin,Ireland,Leinster,Europe,Urban,Mid-range,Temperate,Summer,0,1,1,0,0,1,0,1,94,88,88,4.6
+Prague,Czech Republic,Prague,Europe,Historical,Budget,Continental,Autumn,0,1,1,0,0,1,0,1,96,90,45,4.8
+Warsaw,Poland,Masovia,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,89,90,40,4.6
+Budapest,Hungary,Central Hungary,Europe,Urban,Budget,Continental,Autumn,0,1,1,0,0,1,0,1,95,88,42,4.7
+Bucharest,Romania,Bucharest,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,86,82,35,4.3
+Sofia,Bulgaria,Sofia,Europe,Urban,Budget,Continental,Autumn,0,1,1,0,0,1,0,1,84,85,30,4.4
+Belgrade,Serbia,Belgrade,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,88,80,35,4.5
+Zagreb,Croatia,Zagreb,Europe,Urban,Budget,Continental,Autumn,0,1,1,0,0,1,0,1,87,92,45,4.5
+Ljubljana,Slovenia,Ljubljana,Europe,Nature,Mid-range,Temperate,Spring,1,1,1,1,0,1,0,1,87,96,55,4.8
+Bratislava,Slovakia,Bratislava,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,82,90,40,4.3
+Tallinn,Estonia,Harju,Europe,Historical,Budget,Continental,Summer,0,1,1,0,0,1,0,1,88,94,45,4.7
+Riga,Latvia,Riga,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,85,90,40,4.5
+Vilnius,Lithuania,Vilnius,Europe,Historical,Budget,Continental,Summer,0,1,1,0,0,1,0,1,84,92,38,4.6
+Reykjavik,Iceland,Capital Region,Europe,Nature,Luxury,Alpine,Summer,1,1,1,1,0,1,1,1,94,99,98,4.8
+Valletta,Malta,Valletta,Europe,Historical,Mid-range,Mediterranean,Spring,0,1,1,0,1,1,0,1,88,95,65,4.6
+Nicosia,Cyprus,Nicosia,Europe,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,0,1,0,1,80,90,65,4.2
+Monaco,Monaco,Monaco,Europe,Urban,Luxury,Mediterranean,Summer,0,1,1,0,1,1,0,1,92,99,100,4.4
+San Marino,San Marino,San Marino,Europe,Historical,Mid-range,Temperate,Summer,0,0,1,1,0,1,0,1,78,99,70,4.3
+Vatican City,Vatican City,Vatican City,Europe,Religious,Luxury,Mediterranean,Spring,0,0,1,0,0,1,0,1,99,98,90,4.9
+Andorra la Vella,Andorra,Andorra la Vella,Europe,Mountain,Mid-range,Alpine,Winter,1,1,1,1,0,1,0,1,80,98,75,4.4
+Vaduz,Liechtenstein,Vaduz,Europe,Mountain,Luxury,Alpine,Summer,1,0,1,1,0,1,0,1,75,99,95,4.2
+Luxembourg City,Luxembourg,Luxembourg,Europe,Urban,Luxury,Temperate,Summer,0,1,1,0,0,1,0,1,82,98,95,4.5
+Sarajevo,Bosnia and Herzegovina,Sarajevo,Europe,Historical,Budget,Continental,Autumn,1,1,1,1,0,1,0,1,85,80,30,4.6
+Podgorica,Montenegro,Podgorica,Europe,Urban,Budget,Mediterranean,Summer,0,1,1,0,1,1,0,1,75,88,35,4.0
+Tirana,Albania,Tirana,Europe,Urban,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,78,85,30,4.2
+Skopje,North Macedonia,Skopje,Europe,Historical,Budget,Continental,Autumn,0,1,1,0,0,1,0,1,76,85,30,4.1
+Pristina,Kosovo,Pristina,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,70,80,25,3.8
+Kiev,Ukraine,Kiev,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,88,50,25,4.5
+Minsk,Belarus,Minsk,Europe,Urban,Budget,Continental,Summer,0,1,1,0,0,1,0,1,75,90,30,3.8
+Chisinau,Moldova,Chisinau,Europe,Urban,Budget,Continental,Autumn,0,1,1,0,0,1,0,1,68,82,25,3.7
+Moscow,Russia,Moscow,Europe,Urban,Mid-range,Continental,Winter,0,1,1,0,0,1,0,1,95,70,55,4.6
+St. Petersburg,Russia,St. Petersburg,Europe,Historical,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,96,75,50,4.8
+Yekaterinburg,Russia,Sverdlovsk,Europe,Urban,Budget,Continental,Winter,0,1,1,0,0,1,0,1,80,82,35,4.2
+Novosibirsk,Russia,Novosibirsk,Asia,Urban,Budget,Continental,Winter,0,1,1,0,0,1,0,1,78,80,30,4.0
+Vladivostok,Russia,Primorsky,Asia,Urban,Budget,Continental,Autumn,0,1,1,0,1,1,0,1,82,85,40,4.3
+Istanbul,Turkey,Marmara,Europe,Historical,Budget,Mediterranean,Spring,0,1,1,0,0,1,0,1,98,80,40,4.8
+Ankara,Turkey,Central Anatolia,Asia,Urban,Budget,Continental,Spring,0,1,1,0,0,1,0,1,88,85,35,4.2
+Izmir,Turkey,Aegean,Asia,Urban,Budget,Mediterranean,Summer,0,1,1,0,1,1,0,1,90,88,38,4.5
+Antalya,Turkey,Mediterranean,Asia,Beach,Budget,Mediterranean,Summer,1,1,1,0,1,1,0,1,92,85,35,4.6
+Jerusalem,Israel,Jerusalem,Middle East,Religious,Mid-range,Mediterranean,Spring,0,0,1,0,0,1,0,1,96,82,85,4.8
+Tel Aviv,Israel,Tel Aviv,Middle East,Beach,Luxury,Mediterranean,Summer,0,1,1,0,1,0,0,1,96,88,98,4.7
+Beirut,Lebanon,Beirut,Middle East,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,1,1,0,1,88,65,55,4.4
+Amman,Jordan,Amman,Middle East,Urban,Mid-range,Desert,Autumn,0,1,1,0,0,1,0,1,87,88,50,4.4
+Muscat,Oman,Muscat,Middle East,Urban,Mid-range,Desert,Winter,0,0,1,0,1,1,0,1,85,96,65,4.5
+Doha,Qatar,Doha,Middle East,Urban,Luxury,Desert,Winter,0,1,1,0,1,1,0,1,90,95,90,4.4
+Abu Dhabi,UAE,Abu Dhabi,Middle East,Urban,Luxury,Desert,Winter,1,1,1,0,1,1,0,1,94,98,90,4.5
+Dubai,UAE,Dubai,Middle East,Urban,Luxury,Desert,Winter,1,1,1,0,1,0,0,1,99,95,95,4.6
+Manama,Bahrain,Manama,Middle East,Urban,Mid-range,Desert,Winter,0,1,1,0,1,1,0,1,84,92,70,4.2
+Kuwait City,Kuwait,Kuwait,Middle East,Urban,Luxury,Desert,Winter,0,1,1,0,1,1,0,1,82,94,85,4.1
+Riyadh,Saudi Arabia,Riyadh,Middle East,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,88,92,75,4.3
+Baghdad,Iraq,Baghdad,Middle East,Historical,Budget,Desert,Winter,0,0,1,0,0,1,0,1,70,40,20,3.5
+Tehran,Iran,Tehran,Middle East,Urban,Budget,Continental,Spring,1,1,1,1,0,1,0,1,85,82,25,4.2
+Kabul,Afghanistan,Kabul,Asia,Mountain,Budget,Continental,Autumn,0,0,0,1,0,1,0,1,40,15,15,2.8
+Sanaa,Yemen,Sanaa,Middle East,Historical,Budget,Desert,Winter,0,0,1,0,0,1,0,1,50,20,15,3.0
+Colombo,Sri Lanka,Western Province,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,88,82,30,4.3
+Male,Maldives,Kaafu Atoll,Asia,Island,Luxury,Tropical,Winter,1,0,1,0,1,0,1,1,95,95,100,4.7
+Kathmandu,Nepal,Bagmati,Asia,Historical,Budget,Temperate,Autumn,1,1,1,1,0,1,0,1,94,80,20,4.7
+Thimphu,Bhutan,Thimphu,Asia,Religious,Mid-range,Alpine,Autumn,1,0,1,1,0,1,0,1,88,98,70,4.8
+Dhaka,Bangladesh,Dhaka,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,82,60,15,3.9
+Karachi,Pakistan,Sindh,Asia,Urban,Budget,Desert,Winter,0,1,1,0,1,1,0,1,85,55,18,3.8
+Islamabad,Pakistan,ICT,Asia,Urban,Budget,Temperate,Autumn,1,0,1,1,0,0,1,1,84,80,25,4.3
+Astana,Kazakhstan,Akmo,Asia,Urban,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,80,90,45,4.2
+Tashkent,Uzbekistan,Tashkent,Asia,Urban,Budget,Continental,Spring,0,0,1,0,0,1,0,1,82,90,25,4.4
+Ashgabat,Turkmenistan,Ashgabat,Asia,Urban,Luxury,Desert,Spring,0,0,1,0,0,1,0,1,65,95,95,3.5
+Dushanbe,Tajikistan,Dushanbe,Asia,Mountain,Budget,Continental,Summer,1,0,1,1,0,1,0,1,72,88,25,4.2
+Bishkek,Kyrgyzstan,Bishkek,Asia,Mountain,Budget,Continental,Summer,1,1,1,1,0,1,0,1,78,85,25,4.4
+Ulaanbaatar,Mongolia,Ulaanbaatar,Asia,Urban,Budget,Continental,Summer,1,1,1,0,0,1,0,1,78,82,25,4.1
+Beijing,China,Beijing,Asia,Historical,Mid-range,Continental,Autumn,0,1,1,0,0,1,0,1,98,90,60,4.7
+Seoul,South Korea,Seoul,Asia,Urban,Mid-range,Continental,Autumn,0,1,1,0,0,1,0,1,97,97,75,4.8
+Tokyo,Japan,Kanto,Asia,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,99,98,90,4.9
+Taipei,Taiwan,Taipei,Asia,Urban,Mid-range,Subtropical,Autumn,0,1,1,1,0,1,0,1,95,98,60,4.8
+Manila,Philippines,NCR,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,90,65,35,4.1
+Hanoi,Vietnam,Hanoi,Asia,Urban,Budget,Subtropical,Autumn,0,1,1,0,0,1,0,1,94,88,25,4.7
+Phnom Penh,Cambodia,Phnom Penh,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,86,75,25,4.2
+Vientiane,Laos,Vientiane,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,82,90,22,4.1
+Bangkok,Thailand,Bangkok,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,99,78,35,4.7
+Kuala Lumpur,Malaysia,Kuala Lumpur,Asia,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,96,85,35,4.6
+Singapore,Singapore,Singapore,Asia,Urban,Luxury,Tropical,Year-round,0,1,1,0,0,0,0,1,98,99,92,4.8
+Jakarta,Indonesia,Jakarta,Asia,Urban,Mid-range,Tropical,Year-round,0,1,1,0,0,0,0,1,88,70,45,4.1
+Bandar Seri Begawan,Brunei,Brunei-Muara,Asia,Religious,Luxury,Tropical,Year-round,0,0,1,0,0,1,0,1,75,98,80,4.3
+Dili,East Timor,Dili,Asia,Beach,Budget,Tropical,Summer,1,0,1,0,1,0,0,0,65,70,30,3.8
+Canberra,Australia,ACT,Oceania,Urban,Mid-range,Temperate,Autumn,0,0,1,0,0,1,0,1,82,96,80,4.3
+Wellington,New Zealand,Wellington,Oceania,Urban,Mid-range,Temperate,Summer,0,1,1,1,0,1,0,1,88,96,85,4.5
+Port Moresby,Papua New Guinea,NCD,Oceania,Urban,Budget,Tropical,Year-round,0,0,1,0,1,0,1,1,55,35,45,3.0
+Honiara,Solomon Islands,Guadalcanal,Oceania,Island,Budget,Tropical,Year-round,1,0,1,0,1,1,1,0,60,70,35,3.5
+Port Vila,Vanuatu,Shefa,Oceania,Adventure,Mid-range,Tropical,Year-round,1,1,1,1,1,0,1,1,78,88,65,4.3
+Suva,Fiji,Rewa,Oceania,Urban,Budget,Tropical,Year-round,0,1,1,0,1,0,0,1,75,85,50,3.9
+Nuku'alofa,Tonga,Tongatapu,Oceania,Island,Budget,Tropical,Year-round,1,0,1,0,1,1,0,0,68,92,40,4.1
+Apia,Samoa,Tuamasaga,Oceania,Island,Budget,Tropical,Year-round,1,0,1,0,1,1,1,0,72,90,45,4.2
+South Tarawa,Kiribati,Gilbert Islands,Oceania,Island,Budget,Tropical,Year-round,0,0,0,0,1,0,0,0,48,85,45,3.1
+Funafuti,Tuvalu,Funafuti,Oceania,Island,Budget,Tropical,Year-round,0,0,0,0,1,0,0,0,45,95,55,3.0
+Yaren,Nauru,Yaren,Oceania,Island,Budget,Tropical,Year-round,0,0,0,0,1,0,0,0,40,80,60,2.8
+Majuro,Marshall Islands,Majuro,Oceania,Island,Mid-range,Tropical,Year-round,1,0,0,0,1,0,1,0,55,85,70,3.4
+Palikir,Micronesia,Pohnpei,Oceania,Nature,Budget,Tropical,Year-round,1,0,0,1,0,0,1,0,52,90,40,3.6
+Koror,Palau,Koror,Oceania,Nature,Luxury,Tropical,Year-round,1,0,1,0,1,0,1,0,80,95,90,4.7
+Ottawa,Canada,Ontario,North America,Urban,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,88,94,80,4.4
+Washington D.C.,USA,D.C.,North America,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,96,80,95,4.6
+Mexico City,Mexico,CDMX,North America,Urban,Budget,Temperate,Spring,0,1,1,0,0,1,0,1,95,68,40,4.7
+Guatemala City,Guatemala,Guatemala,North America,Urban,Budget,Tropical,Spring,0,1,1,0,0,1,0,1,75,55,35,3.6
+Belmopan,Belize,Cayo,North America,Nature,Budget,Tropical,Winter,1,0,1,1,0,0,1,0,68,80,45,3.8
+San Salvador,El Salvador,San Salvador,North America,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,72,60,35,3.7
+Tegucigalpa,Honduras,Francisco Morazan,North America,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,65,45,30,3.4
+Managua,Nicaragua,Managua,North America,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,68,65,25,3.5
+San Jose,Costa Rica,San Jose,North America,Nature,Mid-range,Tropical,Winter,1,1,1,1,0,1,1,1,88,88,60,4.6
+Panama City,Panama,Panama,North America,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,90,82,65,4.4
+Havana,Cuba,La Habana,North America,Historical,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,90,85,40,4.6
+Nassau,Bahamas,New Providence,North America,Beach,Luxury,Tropical,Winter,1,1,1,0,1,0,1,1,92,80,95,4.5
+Kingston,Jamaica,Surrey,North America,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,55,40,4.0
+Port-au-Prince,Haiti,Ouest,North America,Urban,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,50,15,30,2.5
+Santo Domingo,Dominican Republic,Distrito Nacional,North America,Historical,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,85,70,45,4.3
+Basseterre,Saint Kitts and Nevis,Saint George Basseterre,North America,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,1,1,72,92,80,4.1
+St. John's,Antigua and Barbuda,Saint John,North America,Beach,Luxury,Tropical,Winter,1,1,1,0,1,1,0,1,78,92,90,4.4
+Roseau,Dominica,Saint George,North America,Nature,Budget,Tropical,Winter,1,0,1,1,0,0,1,0,70,95,45,4.3
+Castries,Saint Lucia,Castries,North America,Nature,Luxury,Tropical,Winter,1,0,1,1,1,0,0,1,86,90,95,4.7
+Kingstown,Saint Vincent and the Grenadines,Saint George,North America,Beach,Budget,Tropical,Winter,1,0,1,0,1,1,1,0,68,88,45,4.0
+St. George's,Grenada,Saint George,North America,Beach,Mid-range,Tropical,Winter,1,0,1,0,1,1,0,1,82,92,75,4.5
+Bridgetown,Barbados,Saint Michael,North America,Beach,Luxury,Tropical,Winter,1,1,1,0,1,1,0,1,88,92,90,4.6
+Port of Spain,Trinidad and Tobago,Saint George,South America,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,78,60,55,4.0
+Georgetown,Guyana,Demerara-Mahaica,South America,Nature,Budget,Tropical,Year-round,1,0,1,1,0,0,1,0,65,60,35,3.7
+Paramaribo,Suriname,Paramaribo,South America,Historical,Budget,Tropical,Year-round,0,0,1,0,0,1,0,1,68,75,30,4.0
+Bogota,Colombia,Bogota,South America,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,90,65,35,4.4
+Caracas,Venezuela,Capital District,South America,Urban,Budget,Tropical,Year-round,0,1,1,1,1,1,0,1,70,25,30,3.2
+Quito,Ecuador,Pichincha,South America,Historical,Budget,Temperate,Year-round,1,1,1,1,0,1,0,1,88,75,30,4.6
+Lima,Peru,Lima,South America,Urban,Budget,Temperate,Winter,0,1,1,0,1,1,0,1,92,70,40,4.5
+La Paz,Bolivia,La Paz,South America,Urban,Budget,Alpine,Spring,1,1,1,1,0,1,0,1,89,72,25,4.4
+Asuncion,Paraguay,Distrito Capital,South America,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,72,75,25,3.9
+Santiago,Chile,Santiago,South America,Urban,Mid-range,Mediterranean,Autumn,1,1,1,1,1,1,0,1,92,85,65,4.6
+Buenos Aires,Argentina,Buenos Aires,South America,Urban,Mid-range,Temperate,Autumn,0,1,1,0,0,1,0,1,94,75,55,4.6
+Montevideo,Uruguay,Montevideo,South America,Urban,Mid-range,Temperate,Summer,0,1,1,0,1,1,0,1,85,90,70,4.5
+Brasilia,Brazil,Federal District,South America,Urban,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,82,82,60,4.2
+Rabat,Morocco,Rabat-Salé-Kénitra,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,88,90,40,4.5
+Nouakchott,Mauritania,Nouakchott,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,55,70,35,3.2
+Dakar,Senegal,Dakar,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,78,35,4.2
+Banjul,Gambia,Banjul,Africa,Beach,Budget,Tropical,Winter,1,1,1,0,1,0,0,1,72,82,25,4.0
+Bissau,Guinea-Bissau,Bissau,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,58,60,25,3.2
+Conakry,Guinea,Conakry,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,62,55,30,3.3
+Freetown,Sierra Leone,Western Area,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,60,30,3.6
+Monrovia,Liberia,Montserrado,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,60,55,35,3.4
+Bamako,Mali,Bamako,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,55,30,20,3.2
+Ouagadougou,Burkina Faso,Centre,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,58,35,20,3.3
+Niamey,Niger,Niamey,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,52,35,20,3.1
+Ndjamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Khartoum,Sudan,Khartoum,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,45,20,15,2.8
+Asmara,Eritrea,Maekel,Africa,Historical,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,64,88,20,4.3
+Djibouti City,Djibouti,Djibouti,Africa,Urban,Mid-range,Desert,Winter,1,0,1,0,1,0,0,1,62,85,85,3.5
+Addis Ababa,Ethiopia,Addis Ababa,Africa,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,84,75,25,4.1
+Mogadishu,Somalia,Banaadir,Africa,Beach,Budget,Tropical,Winter,0,0,0,0,1,0,0,0,30,10,15,2.0
+Nairobi,Kenya,Nairobi,Africa,Urban,Mid-range,Temperate,Year-round,1,1,1,0,0,1,1,1,87,60,45,4.5
+Kampala,Uganda,Kampala,Africa,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,78,70,25,4.1
+Kigali,Rwanda,Kigali,Africa,Urban,Budget,Temperate,Year-round,0,0,1,0,0,1,0,1,82,96,35,4.6
+Bujumbura,Burundi,Bujumbura Mairie,Africa,Urban,Budget,Tropical,Year-round,0,0,1,0,1,0,0,1,55,40,25,3.1
+Dodoma,Tanzania,Dodoma,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,0,1,65,85,25,3.4
+Victoria,Seychelles,Mahé,Africa,Island,Luxury,Tropical,Year-round,1,0,1,0,1,1,1,1,90,95,98,4.8
+Moroni,Comoros,Grande Comore,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,0,0,60,75,40,3.6
+Antananarivo,Madagascar,Analamanga,Africa,Urban,Budget,Temperate,Autumn,0,0,1,0,0,1,1,1,70,65,25,3.8
+Port Louis,Mauritius,Port Louis,Africa,Island,Luxury,Tropical,Year-round,1,1,1,0,1,1,1,1,92,94,90,4.7
+Lilongwe,Malawi,Central Region,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,1,1,65,85,25,3.5
+Lusaka,Zambia,Lusaka,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,1,1,72,80,35,4.0
+Harare,Zimbabwe,Harare,Africa,Urban,Budget,Temperate,Winter,0,1,1,0,0,1,1,1,74,65,30,3.7
+Maputo,Mozambique,Maputo City,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,76,70,40,4.1
+Gaborone,Botswana,South-East,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,1,1,70,92,55,4.2
+Windhoek,Namibia,Khomas,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,75,90,55,4.2
+Pretoria,South Africa,Gauteng,Africa,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,1,1,85,60,55,4.1
+Mbabane,Eswatini,Hhohho,Africa,Nature,Budget,Temperate,Summer,1,0,1,1,0,1,1,1,68,88,30,4.2
+Maseru,Lesotho,Maseru,Africa,Mountain,Budget,Temperate,Summer,1,0,1,1,0,1,0,0,65,85,25,4.1
+Luanda,Angola,Luanda,Africa,Urban,Luxury,Tropical,Winter,0,1,1,0,1,1,0,1,72,45,95,3.6
+Kinshasa,DR Congo,Kinshasa,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,0,0,1,70,35,50,3.4
+Brazzaville,Congo,Brazzaville,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,62,65,45,3.5
+Libreville,Gabon,Estuaire,Africa,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,1,1,68,75,70,3.8
+Malabo,Equatorial Guinea,Bioko Norte,Africa,Urban,Luxury,Tropical,Winter,0,0,1,0,1,1,0,1,65,80,100,3.5
+Yaounde,Cameroon,Centre,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,68,65,35,3.6
+Bangui,Central African Republic,Ombella-M'Poko,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,0,1,1,35,10,25,2.2
+N'Djamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Abuja,Nigeria,FCT,Africa,Urban,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,78,60,55,3.9
+Porto-Novo,Benin,Oueme,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,62,75,25,3.5
+Lome,Togo,Maritime,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,78,25,3.7
+Accra,Ghana,Greater Accra,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,85,35,4.3
+Yamoussoukro,Ivory Coast,Lacs,Africa,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,60,70,40,3.4
+Praia,Cape Verde,Santiago,Africa,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,78,88,55,4.2
+Sao Tome,Sao Tome and Principe,Agua Grande,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,1,0,70,92,40,4.3
+Cairo,Egypt,Cairo,Africa,Historical,Budget,Desert,Winter,0,1,1,0,0,1,0,1,95,65,30,4.4
+Tripoli,Libya,Tripoli,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,40,15,20,2.5
+Tunis,Tunisia,Tunis,Africa,Historical,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,85,82,30,4.3
+Algiers,Algeria,Algiers,Africa,Urban,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,74,75,30,3.9
+Rabat,Morocco,Rabat-Salé-Kénitra,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,88,90,40,4.5
+Nouakchott,Mauritania,Nouakchott,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,55,70,35,3.2
+Dakar,Senegal,Dakar,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,78,35,4.2
+Banjul,Gambia,Banjul,Africa,Beach,Budget,Tropical,Winter,1,1,1,0,1,0,0,1,72,82,25,4.0
+Bissau,Guinea-Bissau,Bissau,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,58,60,25,3.2
+Conakry,Guinea,Conakry,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,62,55,30,3.3
+Freetown,Sierra Leone,Western Area,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,60,30,3.6
+Monrovia,Liberia,Montserrado,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,60,55,35,3.4
+Bamako,Mali,Bamako,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,55,30,20,3.2
+Ouagadougou,Burkina Faso,Centre,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,58,35,20,3.3
+Niamey,Niger,Niamey,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,52,35,20,3.1
+Ndjamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Khartoum,Sudan,Khartoum,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,45,20,15,2.8
+Asmara,Eritrea,Maekel,Africa,Historical,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,64,88,20,4.3
+Djibouti City,Djibouti,Djibouti,Africa,Urban,Mid-range,Desert,Winter,1,0,1,0,1,0,0,1,62,85,85,3.5
+Addis Ababa,Ethiopia,Addis Ababa,Africa,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,84,75,25,4.1
+Mogadishu,Somalia,Banaadir,Africa,Beach,Budget,Tropical,Winter,0,0,0,0,1,0,0,0,30,10,15,2.0
+Nairobi,Kenya,Nairobi,Africa,Urban,Mid-range,Temperate,Year-round,1,1,1,0,0,1,1,1,87,60,45,4.5
+Kampala,Uganda,Kampala,Africa,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,78,70,25,4.1
+Kigali,Rwanda,Kigali,Africa,Urban,Budget,Temperate,Year-round,0,0,1,0,0,1,0,1,82,96,35,4.6
+Bujumbura,Burundi,Bujumbura Mairie,Africa,Urban,Budget,Tropical,Year-round,0,0,1,0,1,0,0,1,55,40,25,3.1
+Dodoma,Tanzania,Dodoma,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,0,1,65,85,25,3.4
+Victoria,Seychelles,Mahé,Africa,Island,Luxury,Tropical,Year-round,1,0,1,0,1,1,1,1,90,95,98,4.8
+Moroni,Comoros,Grande Comore,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,0,0,60,75,40,3.6
+Antananarivo,Madagascar,Analamanga,Africa,Urban,Budget,Temperate,Autumn,0,0,1,0,0,1,1,1,70,65,25,3.8
+Port Louis,Mauritius,Port Louis,Africa,Island,Luxury,Tropical,Year-round,1,1,1,0,1,1,1,1,92,94,90,4.7
+Lilongwe,Malawi,Central Region,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,1,1,65,85,25,3.5
+Lusaka,Zambia,Lusaka,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,1,1,72,80,35,4.0
+Harare,Zimbabwe,Harare,Africa,Urban,Budget,Temperate,Winter,0,1,1,0,0,1,1,1,74,65,30,3.7
+Maputo,Mozambique,Maputo City,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,76,70,40,4.1
+Gaborone,Botswana,South-East,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,1,1,70,92,55,4.2
+Windhoek,Namibia,Khomas,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,75,90,55,4.2
+Pretoria,South Africa,Gauteng,Africa,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,1,1,85,60,55,4.1
+Mbabane,Eswatini,Hhohho,Africa,Nature,Budget,Temperate,Summer,1,0,1,1,0,1,1,1,68,88,30,4.2
+Maseru,Lesotho,Maseru,Africa,Mountain,Budget,Temperate,Summer,1,0,1,1,0,1,0,0,65,85,25,4.1
+Luanda,Angola,Luanda,Africa,Urban,Luxury,Tropical,Winter,0,1,1,0,1,1,0,1,72,45,95,3.6
+Kinshasa,DR Congo,Kinshasa,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,0,0,1,70,35,50,3.4
+Brazzaville,Congo,Brazzaville,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,62,65,45,3.5
+Libreville,Gabon,Estuaire,Africa,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,1,1,68,75,70,3.8
+Malabo,Equatorial Guinea,Bioko Norte,Africa,Urban,Luxury,Tropical,Winter,0,0,1,0,1,1,0,1,65,80,100,3.5
+Yaounde,Cameroon,Centre,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,68,65,35,3.6
+Bangui,Central African Republic,Ombella-M'Poko,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,0,1,1,35,10,25,2.2
+N'Djamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Abuja,Nigeria,FCT,Africa,Urban,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,78,60,55,3.9
+Porto-Novo,Benin,Oueme,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,62,75,25,3.5
+Lome,Togo,Maritime,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,78,25,3.7
+Accra,Ghana,Greater Accra,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,85,35,4.3
+Yamoussoukro,Ivory Coast,Lacs,Africa,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,60,70,40,3.4
+Praia,Cape Verde,Santiago,Africa,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,78,88,55,4.2
+Sao Tome,Sao Tome and Principe,Agua Grande,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,1,0,70,92,40,4.3
+Cairo,Egypt,Cairo,Africa,Historical,Budget,Desert,Winter,0,1,1,0,0,1,0,1,95,65,30,4.4
+Tripoli,Libya,Tripoli,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,40,15,20,2.5
+Tunis,Tunisia,Tunis,Africa,Historical,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,85,82,30,4.3
+Algiers,Algeria,Algiers,Africa,Urban,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,74,75,30,3.9
+Rabat,Morocco,Rabat-Salé-Kénitra,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,88,90,40,4.5
+Nouakchott,Mauritania,Nouakchott,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,55,70,35,3.2
+Dakar,Senegal,Dakar,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,78,35,4.2
+Banjul,Gambia,Banjul,Africa,Beach,Budget,Tropical,Winter,1,1,1,0,1,0,0,1,72,82,25,4.0
+Bissau,Guinea-Bissau,Bissau,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,58,60,25,3.2
+Conakry,Guinea,Conakry,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,62,55,30,3.3
+Freetown,Sierra Leone,Western Area,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,60,30,3.6
+Monrovia,Liberia,Montserrado,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,60,55,35,3.4
+Bamako,Mali,Bamako,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,55,30,20,3.2
+Ouagadougou,Burkina Faso,Centre,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,58,35,20,3.3
+Niamey,Niger,Niamey,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,52,35,20,3.1
+Ndjamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Khartoum,Sudan,Khartoum,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,45,20,15,2.8
+Asmara,Eritrea,Maekel,Africa,Historical,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,64,88,20,4.3
+Djibouti City,Djibouti,Djibouti,Africa,Urban,Mid-range,Desert,Winter,1,0,1,0,1,0,0,1,62,85,85,3.5
+Addis Ababa,Ethiopia,Addis Ababa,Africa,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,84,75,25,4.1
+Mogadishu,Somalia,Banaadir,Africa,Beach,Budget,Tropical,Winter,0,0,0,0,1,0,0,0,30,10,15,2.0
+Nairobi,Kenya,Nairobi,Africa,Urban,Mid-range,Temperate,Year-round,1,1,1,0,0,1,1,1,87,60,45,4.5
+Kampala,Uganda,Kampala,Africa,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,78,70,25,4.1
+Kigali,Rwanda,Kigali,Africa,Urban,Budget,Temperate,Year-round,0,0,1,0,0,1,0,1,82,96,35,4.6
+Bujumbura,Burundi,Bujumbura Mairie,Africa,Urban,Budget,Tropical,Year-round,0,0,1,0,1,0,0,1,55,40,25,3.1
+Dodoma,Tanzania,Dodoma,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,0,1,65,85,25,3.4
+Victoria,Seychelles,Mahé,Africa,Island,Luxury,Tropical,Year-round,1,0,1,0,1,1,1,1,90,95,98,4.8
+Moroni,Comoros,Grande Comore,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,0,0,60,75,40,3.6
+Antananarivo,Madagascar,Analamanga,Africa,Urban,Budget,Temperate,Autumn,0,0,1,0,0,1,1,1,70,65,25,3.8
+Port Louis,Mauritius,Port Louis,Africa,Island,Luxury,Tropical,Year-round,1,1,1,0,1,1,1,1,92,94,90,4.7
+Lilongwe,Malawi,Central Region,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,1,1,65,85,25,3.5
+Lusaka,Zambia,Lusaka,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,1,1,72,80,35,4.0
+Harare,Zimbabwe,Harare,Africa,Urban,Budget,Temperate,Winter,0,1,1,0,0,1,1,1,74,65,30,3.7
+Maputo,Mozambique,Maputo City,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,76,70,40,4.1
+Gaborone,Botswana,South-East,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,1,1,70,92,55,4.2
+Windhoek,Namibia,Khomas,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,75,90,55,4.2
+Pretoria,South Africa,Gauteng,Africa,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,1,1,85,60,55,4.1
+Mbabane,Eswatini,Hhohho,Africa,Nature,Budget,Temperate,Summer,1,0,1,1,0,1,1,1,68,88,30,4.2
+Maseru,Lesotho,Maseru,Africa,Mountain,Budget,Temperate,Summer,1,0,1,1,0,1,0,0,65,85,25,4.1
+Luanda,Angola,Luanda,Africa,Urban,Luxury,Tropical,Winter,0,1,1,0,1,1,0,1,72,45,95,3.6
+Kinshasa,DR Congo,Kinshasa,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,0,0,1,70,35,50,3.4
+Brazzaville,Congo,Brazzaville,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,62,65,45,3.5
+Libreville,Gabon,Estuaire,Africa,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,1,1,68,75,70,3.8
+Malabo,Equatorial Guinea,Bioko Norte,Africa,Urban,Luxury,Tropical,Winter,0,0,1,0,1,1,0,1,65,80,100,3.5
+Yaounde,Cameroon,Centre,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,68,65,35,3.6
+Bangui,Central African Republic,Ombella-M'Poko,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,0,1,1,35,10,25,2.2
+N'Djamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Abuja,Nigeria,FCT,Africa,Urban,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,78,60,55,3.9
+Porto-Novo,Benin,Oueme,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,62,75,25,3.5
+Lome,Togo,Maritime,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,78,25,3.7
+Accra,Ghana,Greater Accra,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,85,35,4.3
+Yamoussoukro,Ivory Coast,Lacs,Africa,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,60,70,40,3.4
+Praia,Cape Verde,Santiago,Africa,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,78,88,55,4.2
+Sao Tome,Sao Tome and Principe,Agua Grande,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,1,0,70,92,40,4.3
+Gitega,Burundi,Gitega,Africa,Urban,Budget,Tropical,Year-round,0,0,1,0,0,1,0,0,52,45,25,3.0
+Lobamba,Eswatini,Manzini,Africa,Urban,Budget,Temperate,Summer,0,0,1,0,0,1,0,1,60,88,30,3.6
+Bloemfontein,South Africa,Free State,Africa,Urban,Mid-range,Temperate,Spring,0,0,1,0,0,1,0,1,78,70,45,3.9
+Yamoussoukro,Ivory Coast,Lacs,Africa,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,60,70,40,3.4
+Conakry,Guinea,Conakry,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,62,55,30,3.3
+Freetown,Sierra Leone,Western Area,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,60,30,3.6
+Monrovia,Liberia,Montserrado,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,60,55,35,3.4
+Nouakchott,Mauritania,Nouakchott,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,55,70,35,3.2
+El Aaiun,Western Sahara,Laayoune,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,50,55,30,3.1
+Baku,Azerbaijan,Absheron,Asia,Urban,Mid-range,Desert,Autumn,0,1,1,0,1,1,0,1,88,94,50,4.5
+Tbilisi,Georgia,Tbilisi,Asia,Historical,Budget,Continental,Spring,1,1,1,1,0,1,0,1,91,92,30,4.8
+Astana,Kazakhstan,Akmo,Asia,Urban,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,80,90,45,4.2
+Ashgabat,Turkmenistan,Ashgabat,Asia,Urban,Luxury,Desert,Spring,0,0,1,0,0,1,0,1,65,95,95,3.5
+Dushanbe,Tajikistan,Dushanbe,Asia,Mountain,Budget,Continental,Summer,1,0,1,1,0,1,0,1,72,88,25,4.2
+Bishkek,Kyrgyzstan,Bishkek,Asia,Mountain,Budget,Continental,Summer,1,1,1,1,0,1,0,1,78,85,25,4.4
+Almaty,Kazakhstan,Almaty,Asia,Mountain,Mid-range,Continental,Autumn,1,1,1,1,0,1,0,1,86,88,40,4.7
+Bukhara,Uzbekistan,Bukhara,Asia,Historical,Budget,Desert,Spring,0,0,1,0,0,1,0,1,90,94,22,4.8
+Khiva,Uzbekistan,Xorazm,Asia,Historical,Budget,Desert,Autumn,0,0,1,0,0,1,0,0,88,95,22,4.8
+Samarkand,Uzbekistan,Samarkand,Asia,Historical,Budget,Desert,Spring,0,0,1,0,0,1,0,1,94,92,25,4.9
+Ulaanbaatar,Mongolia,Ulaanbaatar,Asia,Urban,Budget,Continental,Summer,1,1,1,0,0,1,0,1,78,82,25,4.1
+Pyongyang,North Korea,Pyongyang,Asia,Urban,Mid-range,Continental,Spring,0,0,0,0,0,1,0,0,50,98,60,3.0
+Seoul,South Korea,Seoul,Asia,Urban,Mid-range,Continental,Autumn,0,1,1,0,0,1,0,1,97,97,75,4.8
+Busan,South Korea,Busan,Asia,Beach,Mid-range,Temperate,Summer,0,1,1,0,1,1,0,1,92,96,65,4.7
+Tokyo,Japan,Kanto,Asia,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,99,98,90,4.9
+Kyoto,Japan,Kansai,Asia,Historical,Mid-range,Temperate,Autumn,0,0,1,0,0,1,0,1,98,99,75,4.9
+Osaka,Japan,Kansai,Asia,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,95,98,70,4.7
+Nagoya,Japan,Chubu,Asia,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,0,1,88,98,65,4.4
+Sapporo,Japan,Hokkaido,Asia,Mountain,Mid-range,Continental,Winter,1,1,1,1,0,0,0,1,91,98,75,4.7
+Fukuoka,Japan,Kyushu,Asia,Urban,Mid-range,Temperate,Spring,0,1,1,0,1,0,0,1,89,98,65,4.6
+Hiroshima,Japan,Chugoku,Asia,Historical,Mid-range,Temperate,Spring,0,0,1,0,0,1,0,1,92,98,65,4.8
+Nara,Japan,Kansai,Asia,Historical,Mid-range,Temperate,Autumn,0,0,1,0,0,1,1,1,94,99,60,4.9
+Okinawa,Japan,Okinawa,Asia,Island,Mid-range,Tropical,Year-round,1,1,1,0,1,1,1,1,92,96,75,4.7
+Taipei,Taiwan,Taipei,Asia,Urban,Mid-range,Subtropical,Autumn,0,1,1,1,0,1,0,1,95,98,60,4.8
+Kaohsiung,Taiwan,Kaohsiung,Asia,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,88,96,55,4.6
+Hualien,Taiwan,Hualien,Asia,Nature,Mid-range,Subtropical,Spring,1,0,1,1,1,0,0,1,85,96,50,4.7
+Beijing,China,Beijing,Asia,Historical,Mid-range,Continental,Autumn,0,1,1,0,0,1,0,1,98,90,60,4.7
+Shanghai,China,Shanghai,Asia,Urban,Luxury,Temperate,Autumn,0,1,1,0,0,0,0,1,97,92,85,4.6
+Xi'an,China,Shaanxi,Asia,Historical,Mid-range,Continental,Spring,0,0,1,0,0,1,0,1,95,92,45,4.8
+Guilin,China,Guangxi,Asia,Nature,Mid-range,Tropical,Spring,1,0,1,0,0,1,0,1,92,90,45,4.8
+Chengdu,China,Sichuan,Asia,Urban,Mid-range,Subtropical,Autumn,0,1,1,0,0,1,1,1,94,90,50,4.8
+Lhasa,China,Tibet,Asia,Religious,Mid-range,Alpine,Summer,1,0,1,1,0,1,0,1,91,92,60,4.8
+Hong Kong,China,Hong Kong,Asia,Urban,Luxury,Tropical,Winter,0,1,1,1,1,0,0,1,98,92,95,4.7
+Macau,China,Macau,Asia,Urban,Luxury,Tropical,Winter,0,1,1,0,0,1,0,1,94,94,90,4.4
+Ulaanbaatar,Mongolia,Ulaanbaatar,Asia,Urban,Budget,Continental,Summer,1,1,1,0,0,1,0,1,78,82,25,4.1
+Manila,Philippines,NCR,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,90,65,35,4.1
+Boracay,Philippines,Aklan,Asia,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,0,0,1,94,82,55,4.7
+Cebu City,Philippines,Cebu,Asia,Urban,Budget,Tropical,Winter,1,1,1,0,1,1,0,1,89,75,35,4.3
+Davao City,Philippines,Davao,Asia,Urban,Budget,Tropical,Year-round,1,1,1,1,1,0,1,1,85,80,30,4.2
+Puerto Princesa,Philippines,Palawan,Asia,Nature,Budget,Tropical,Year-round,1,0,1,1,1,1,1,1,92,88,35,4.8
+Bangkok,Thailand,Bangkok,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,99,78,35,4.7
+Phuket,Thailand,Phuket,Asia,Beach,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,97,80,55,4.6
+Chiang Mai,Thailand,Chiang Mai,Asia,Historical,Budget,Tropical,Winter,1,1,1,1,0,1,0,1,94,90,30,4.8
+Pattaya,Thailand,Chonburi,Asia,Beach,Budget,Tropical,Winter,1,1,1,0,1,0,0,1,92,72,40,4.1
+Koh Samui,Thailand,Surat Thani,Asia,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,93,85,60,4.7
+Krabi,Thailand,Krabi,Asia,Nature,Budget,Tropical,Winter,1,1,1,1,1,0,0,1,95,88,35,4.8
+Kuala Lumpur,Malaysia,Kuala Lumpur,Asia,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,96,85,35,4.6
+Penang,Malaysia,Penang,Asia,Historical,Budget,Tropical,Year-round,0,1,1,0,1,1,0,1,93,88,30,4.7
+Langkawi,Malaysia,Kedah,Asia,Island,Mid-range,Tropical,Year-round,1,1,1,0,1,0,1,1,91,90,50,4.7
+Kota Kinabalu,Malaysia,Sabah,Asia,Nature,Mid-range,Tropical,Year-round,1,1,1,1,1,0,1,1,88,88,45,4.6
+Kuching,Malaysia,Sarawak,Asia,Urban,Budget,Tropical,Year-round,1,0,1,1,0,1,1,1,85,92,30,4.5
+Singapore,Singapore,Singapore,Asia,Urban,Luxury,Tropical,Year-round,0,1,1,0,0,0,0,1,98,99,92,4.8
+Jakarta,Indonesia,Jakarta,Asia,Urban,Mid-range,Tropical,Year-round,0,1,1,0,0,0,0,1,88,70,45,4.1
+Bali,Indonesia,Bali,Asia,Island,Budget,Tropical,Year-round,1,1,1,1,1,1,1,1,99,88,40,4.9
+Yogyakarta,Indonesia,Yogyakarta,Asia,Historical,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,92,90,25,4.8
+Surabaya,Indonesia,East Java,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,84,82,30,4.1
+Medan,Indonesia,North Sumatra,Asia,Urban,Budget,Tropical,Year-round,1,0,1,1,0,1,1,1,80,75,28,4.0
+Bandar Seri Begawan,Brunei,Brunei-Muara,Asia,Religious,Luxury,Tropical,Year-round,0,0,1,0,0,1,0,1,75,98,80,4.3
+Hanoi,Vietnam,Hanoi,Asia,Urban,Budget,Subtropical,Autumn,0,1,1,0,0,1,0,1,94,88,25,4.7
+Ho Chi Minh City,Vietnam,Ho Chi Minh,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,93,85,28,4.6
+Da Nang,Vietnam,Da Nang,Asia,Beach,Budget,Tropical,Spring,1,1,1,1,1,1,0,1,92,90,30,4.7
+Hoi An,Vietnam,Quang Nam,Asia,Historical,Budget,Tropical,Spring,0,0,1,0,1,1,0,1,95,94,25,4.9
+Hue,Vietnam,Thua Thien Hue,Asia,Historical,Budget,Tropical,Spring,0,0,1,0,0,1,0,0,88,92,22,4.6
+Nha Trang,Vietnam,Khanh Hoa,Asia,Beach,Budget,Tropical,Summer,1,1,1,0,1,0,0,1,89,85,35,4.3
+Phnom Penh,Cambodia,Phnom Penh,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,86,75,25,4.2
+Siem Reap,Cambodia,Siem Reap,Asia,Historical,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,96,88,25,4.9
+Vientiane,Laos,Vientiane,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,82,90,22,4.1
+Luang Prabang,Laos,Luang Prabang,Asia,Religious,Budget,Tropical,Winter,1,0,1,1,0,1,0,1,91,95,28,4.8
+Yangon,Myanmar,Yangon,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,84,70,25,4.2
+Mandalay,Myanmar,Mandalay,Asia,Historical,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,82,65,22,4.1
+Bagan,Myanmar,Mandalay,Asia,Historical,Budget,Tropical,Winter,1,0,1,1,0,1,0,0,93,72,30,4.9
+Male,Maldives,Kaafu Atoll,Asia,Island,Luxury,Tropical,Winter,1,0,1,0,1,0,1,1,95,95,100,4.7
+Colombo,Sri Lanka,Western Province,Asia,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,88,82,30,4.3
+Kandy,Sri Lanka,Central Province,Asia,Historical,Budget,Tropical,Winter,1,0,1,1,0,1,1,1,90,88,28,4.7
+Galle,Sri Lanka,Southern Province,Asia,Historical,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,92,90,45,4.8
+Kathmandu,Nepal,Bagmati,Asia,Historical,Budget,Temperate,Autumn,1,1,1,1,0,1,0,1,94,80,20,4.7
+Pokhara,Nepal,Gandaki,Asia,Adventure,Budget,Temperate,Autumn,1,1,1,1,0,0,0,1,93,88,22,4.9
+Thimphu,Bhutan,Thimphu,Asia,Religious,Mid-range,Alpine,Autumn,1,0,1,1,0,1,0,1,88,98,70,4.8
+Paro,Bhutan,Paro,Asia,Religious,Mid-range,Alpine,Spring,1,0,1,1,0,1,0,1,90,99,75,4.9
+Dhaka,Bangladesh,Dhaka,Asia,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,82,60,15,3.9
+Karachi,Pakistan,Sindh,Asia,Urban,Budget,Desert,Winter,0,1,1,0,1,1,0,1,85,55,18,3.8
+Lahore,Pakistan,Punjab,Asia,Historical,Budget,Continental,Winter,0,1,1,0,0,1,0,1,88,65,20,4.4
+Islamabad,Pakistan,ICT,Asia,Urban,Budget,Temperate,Autumn,1,0,1,1,0,0,1,1,84,80,25,4.3
+Tehran,Iran,Tehran,Middle East,Urban,Budget,Continental,Spring,1,1,1,1,0,1,0,1,85,82,25,4.2
+Isfahan,Iran,Isfahan,Middle East,Historical,Budget,Desert,Autumn,0,0,1,0,0,1,0,1,92,88,22,4.8
+Dubai,UAE,Dubai,Middle East,Urban,Luxury,Desert,Winter,1,1,1,0,1,0,0,1,99,95,95,4.6
+Abu Dhabi,UAE,Abu Dhabi,Middle East,Urban,Luxury,Desert,Winter,1,1,1,0,1,1,0,1,94,98,90,4.5
+Doha,Qatar,Doha,Middle East,Urban,Luxury,Desert,Winter,0,1,1,0,1,1,0,1,90,95,90,4.4
+Muscat,Oman,Muscat,Middle East,Urban,Mid-range,Desert,Winter,0,0,1,0,1,1,0,1,85,96,65,4.5
+Kuwait City,Kuwait,Kuwait,Middle East,Urban,Luxury,Desert,Winter,0,1,1,0,1,1,0,1,82,94,85,4.1
+Manama,Bahrain,Manama,Middle East,Urban,Mid-range,Desert,Winter,0,1,1,0,1,1,0,1,84,92,70,4.2
+Riyadh,Saudi Arabia,Riyadh,Middle East,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,88,92,75,4.3
+Jeddah,Saudi Arabia,Makkah,Middle East,Urban,Mid-range,Desert,Winter,0,1,1,0,1,1,0,1,86,88,65,4.2
+Mecca,Saudi Arabia,Makkah,Middle East,Religious,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,99,95,70,4.9
+Medina,Saudi Arabia,Al Madinah,Middle East,Religious,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,98,96,65,4.9
+Amman,Jordan,Amman,Middle East,Urban,Mid-range,Desert,Autumn,0,1,1,0,0,1,0,1,87,88,50,4.4
+Petra,Jordan,Ma'an,Middle East,Historical,Mid-range,Desert,Spring,1,0,1,1,0,1,0,0,97,90,70,4.9
+Jerusalem,Israel,Jerusalem,Middle East,Religious,Mid-range,Mediterranean,Spring,0,0,1,0,0,1,0,1,96,82,85,4.8
+Tel Aviv,Israel,Tel Aviv,Middle East,Beach,Luxury,Mediterranean,Summer,0,1,1,0,1,0,0,1,96,88,98,4.7
+Beirut,Lebanon,Beirut,Middle East,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,1,1,0,1,88,65,55,4.4
+Damascus,Syria,Damascus,Middle East,Historical,Budget,Mediterranean,Spring,0,0,1,0,0,1,0,1,65,30,15,3.2
+Baghdad,Iraq,Baghdad,Middle East,Historical,Budget,Desert,Winter,0,0,1,0,0,1,0,1,70,40,20,3.5
+Cairo,Egypt,Cairo,Africa,Historical,Budget,Desert,Winter,0,1,1,0,0,1,0,1,95,65,30,4.4
+Alexandria,Egypt,Alexandria,Africa,Urban,Budget,Mediterranean,Winter,0,1,1,0,1,1,0,1,88,72,35,4.2
+Luxor,Egypt,Luxor,Africa,Historical,Budget,Desert,Winter,1,0,1,0,0,1,0,0,92,75,35,4.9
+Aswan,Egypt,Aswan,Africa,Historical,Budget,Desert,Winter,1,0,1,0,0,1,0,0,89,85,30,4.7
+Tunis,Tunisia,Tunis,Africa,Historical,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,85,82,30,4.3
+Algiers,Algeria,Algiers,Africa,Urban,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,74,75,30,3.9
+Marrakech,Morocco,Marrakesh-Safi,Africa,Historical,Budget,Desert,Spring,0,1,1,0,0,1,0,1,95,82,35,4.7
+Casablanca,Morocco,Casablanca-Settat,Africa,Urban,Mid-range,Mediterranean,Spring,0,1,1,0,1,1,0,1,88,80,45,4.3
+Fes,Morocco,Fès-Meknès,Africa,Historical,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,92,85,30,4.8
+Chefchaouen,Morocco,Tangier-Tetouan-Al Hoceima,Africa,Urban,Budget,Temperate,Spring,1,0,1,1,0,1,0,1,90,92,28,4.8
+Dakar,Senegal,Dakar,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,78,35,4.2
+Accra,Ghana,Greater Accra,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,85,35,4.3
+Lagos,Nigeria,Lagos,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,85,40,40,3.8
+Nairobi,Kenya,Nairobi,Africa,Urban,Mid-range,Temperate,Year-round,1,1,1,0,0,1,1,1,87,60,45,4.5
+Mombasa,Kenya,Mombasa,Africa,Beach,Budget,Tropical,Winter,1,1,1,0,1,1,0,1,85,65,35,4.2
+Dar es Salaam,Tanzania,Dar es Salaam,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,82,72,30,4.0
+Zanzibar City,Tanzania,Zanzibar,Africa,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,95,85,60,4.8
+Serengeti,Tanzania,Mara,Africa,Wildlife,Luxury,Tropical,Summer,1,0,1,0,0,0,1,0,98,85,95,4.9
+Addis Ababa,Ethiopia,Addis Ababa,Africa,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,84,75,25,4.1
+Kampala,Uganda,Kampala,Africa,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,78,70,25,4.1
+Kigali,Rwanda,Kigali,Africa,Urban,Budget,Temperate,Year-round,0,0,1,0,0,1,0,1,82,96,35,4.6
+Johannesburg,South Africa,Gauteng,Africa,Urban,Mid-range,Temperate,Summer,0,1,1,0,0,1,1,1,88,50,50,4.2
+Cape Town,South Africa,Western Cape,Africa,Urban,Mid-range,Mediterranean,Summer,1,1,1,1,1,1,1,1,96,65,55,4.8
+Durban,South Africa,KwaZulu-Natal,Africa,Beach,Mid-range,Tropical,Year-round,1,1,1,0,1,0,0,1,85,55,45,4.0
+Port Louis,Mauritius,Port Louis,Africa,Island,Luxury,Tropical,Year-round,1,1,1,0,1,1,1,1,92,94,90,4.7
+Victoria,Seychelles,Mahé,Africa,Island,Luxury,Tropical,Year-round,1,0,1,0,1,1,1,1,90,95,98,4.8
+Antananarivo,Madagascar,Analamanga,Africa,Urban,Budget,Temperate,Autumn,0,0,1,0,0,1,1,1,70,65,25,3.8
+Sydney,Australia,New South Wales,Oceania,Urban,Luxury,Temperate,Summer,1,1,1,0,1,1,1,1,98,90,90,4.8
+Melbourne,Australia,Victoria,Oceania,Urban,Luxury,Temperate,Summer,0,1,1,0,1,1,0,1,96,92,88,4.7
+Brisbane,Australia,Queensland,Oceania,Urban,Mid-range,Subtropical,Summer,1,1,1,0,1,1,0,1,90,92,75,4.5
+Perth,Australia,Western Australia,Oceania,Beach,Mid-range,Mediterranean,Summer,1,1,1,0,1,0,0,1,88,94,75,4.6
+Adelaide,Australia,South Australia,Oceania,Urban,Mid-range,Mediterranean,Summer,0,1,1,0,1,1,0,1,85,95,70,4.4
+Canberra,Australia,ACT,Oceania,Urban,Mid-range,Temperate,Autumn,0,0,1,0,0,1,0,1,82,96,80,4.3
+Hobart,Australia,Tasmania,Oceania,Nature,Mid-range,Temperate,Summer,1,1,1,1,1,1,0,1,84,96,65,4.6
+Darwin,Australia,Northern Territory,Oceania,Urban,Mid-range,Tropical,Winter,1,1,1,0,1,0,1,1,80,88,70,4.1
+Gold Coast,Australia,Queensland,Oceania,Beach,Mid-range,Subtropical,Summer,1,1,1,0,1,0,0,1,94,90,80,4.5
+Cairns,Australia,Queensland,Oceania,Adventure,Mid-range,Tropical,Winter,1,1,1,1,1,0,1,1,92,88,75,4.7
+Auckland,New Zealand,Auckland,Oceania,Urban,Mid-range,Temperate,Summer,1,1,1,1,1,0,1,1,90,95,80,4.6
+Wellington,New Zealand,Wellington,Oceania,Urban,Mid-range,Temperate,Summer,0,1,1,1,0,1,0,1,88,96,85,4.5
+Christchurch,New Zealand,Canterbury,Oceania,Urban,Mid-range,Temperate,Summer,1,0,1,1,0,1,0,1,85,94,75,4.4
+Queenstown,New Zealand,Otago,Oceania,Adventure,Luxury,Alpine,Winter,1,1,1,1,0,0,0,1,94,98,92,4.9
+Rotorua,New Zealand,Bay of Plenty,Oceania,Nature,Mid-range,Temperate,Summer,1,0,1,1,0,1,0,1,88,96,70,4.7
+Suva,Fiji,Rewa,Oceania,Urban,Budget,Tropical,Year-round,0,1,1,0,1,0,0,1,75,85,50,3.9
+Nadi,Fiji,Ba,Oceania,Island,Mid-range,Tropical,Year-round,1,1,1,0,1,0,0,1,85,88,65,4.3
+Port Moresby,Papua New Guinea,NCD,Oceania,Urban,Budget,Tropical,Year-round,0,0,1,0,1,0,1,1,55,35,45,3.0
+Noumea,New Caledonia,South Province,Oceania,Beach,Luxury,Tropical,Summer,1,1,1,0,1,1,0,1,80,92,95,4.4
+Papeete,French Polynesia,Tahiti,Oceania,Island,Luxury,Tropical,Summer,1,1,1,0,1,1,0,1,88,94,100,4.6
+Bora Bora,French Polynesia,Leeward Islands,Oceania,Island,Luxury,Tropical,Year-round,1,0,1,0,1,0,1,0,96,96,100,4.9
+Apia,Samoa,Tuamasaga,Oceania,Island,Budget,Tropical,Year-round,1,0,1,0,1,1,1,0,72,90,45,4.2
+Nuku'alofa,Tonga,Tongatapu,Oceania,Island,Budget,Tropical,Year-round,1,0,1,0,1,1,0,0,68,92,40,4.1
+Honiara,Solomon Islands,Guadalcanal,Oceania,Island,Budget,Tropical,Year-round,1,0,1,0,1,1,1,0,60,70,35,3.5
+Port Vila,Vanuatu,Shefa,Oceania,Adventure,Mid-range,Tropical,Year-round,1,1,1,1,1,0,1,1,78,88,65,4.3
+Majuro,Marshall Islands,Majuro,Oceania,Island,Mid-range,Tropical,Year-round,1,0,0,0,1,0,1,0,55,85,70,3.4
+Palikir,Micronesia,Pohnpei,Oceania,Nature,Budget,Tropical,Year-round,1,0,0,1,0,0,1,0,52,90,40,3.6
+Koror,Palau,Koror,Oceania,Nature,Luxury,Tropical,Year-round,1,0,1,0,1,0,1,0,80,95,90,4.7
+Yaren,Nauru,Yaren,Oceania,Island,Budget,Tropical,Year-round,0,0,0,0,1,0,0,0,40,80,60,2.8
+Funafuti,Tuvalu,Funafuti,Oceania,Island,Budget,Tropical,Year-round,0,0,0,0,1,0,0,0,45,95,55,3.0
+South Tarawa,Kiribati,Gilbert Islands,Oceania,Island,Budget,Tropical,Year-round,0,0,0,0,1,0,0,0,48,85,45,3.1
+Rarotonga,Cook Islands,Rarotonga,Oceania,Island,Mid-range,Tropical,Year-round,1,1,1,1,1,0,1,1,84,96,75,4.6
+Niue,Niue,Niue,Oceania,Nature,Mid-range,Tropical,Year-round,1,0,0,1,1,0,1,0,58,98,70,4.0
+Ottawa,Canada,Ontario,North America,Urban,Mid-range,Continental,Summer,0,1,1,0,0,1,0,1,88,94,80,4.4
+Washington D.C.,USA,D.C.,North America,Urban,Luxury,Temperate,Spring,0,1,1,0,0,1,0,1,96,80,95,4.6
+Mexico City,Mexico,CDMX,North America,Urban,Budget,Temperate,Spring,0,1,1,0,0,1,0,1,95,68,40,4.7
+Guatemala City,Guatemala,Guatemala,North America,Urban,Budget,Tropical,Spring,0,1,1,0,0,1,0,1,75,55,35,3.6
+Belmopan,Belize,Cayo,North America,Nature,Budget,Tropical,Winter,1,0,1,1,0,0,1,0,68,80,45,3.8
+San Salvador,El Salvador,San Salvador,North America,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,72,60,35,3.7
+Tegucigalpa,Honduras,Francisco Morazan,North America,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,65,45,30,3.4
+Managua,Nicaragua,Managua,North America,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,68,65,25,3.5
+San Jose,Costa Rica,San Jose,North America,Nature,Mid-range,Tropical,Winter,1,1,1,1,0,1,1,1,88,88,60,4.6
+Panama City,Panama,Panama,North America,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,90,82,65,4.4
+Havana,Cuba,La Habana,North America,Historical,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,90,85,40,4.6
+Nassau,Bahamas,New Providence,North America,Beach,Luxury,Tropical,Winter,1,1,1,0,1,0,1,1,92,80,95,4.5
+Kingston,Jamaica,Surrey,North America,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,55,40,4.0
+Port-au-Prince,Haiti,Ouest,North America,Urban,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,50,15,30,2.5
+Santo Domingo,Dominican Republic,Distrito Nacional,North America,Historical,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,85,70,45,4.3
+Basseterre,Saint Kitts and Nevis,Saint George Basseterre,North America,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,1,1,72,92,80,4.1
+St. John's,Antigua and Barbuda,Saint John,North America,Beach,Luxury,Tropical,Winter,1,1,1,0,1,1,0,1,78,92,90,4.4
+Roseau,Dominica,Saint George,North America,Nature,Budget,Tropical,Winter,1,0,1,1,0,0,1,0,70,95,45,4.3
+Castries,Saint Lucia,Castries,North America,Nature,Luxury,Tropical,Winter,1,0,1,1,1,0,0,1,86,90,95,4.7
+Kingstown,Saint Vincent and the Grenadines,Saint George,North America,Beach,Budget,Tropical,Winter,1,0,1,0,1,1,1,0,68,88,45,4.0
+St. George's,Grenada,Saint George,North America,Beach,Mid-range,Tropical,Winter,1,0,1,0,1,1,0,1,82,92,75,4.5
+Bridgetown,Barbados,Saint Michael,North America,Beach,Luxury,Tropical,Winter,1,1,1,0,1,1,0,1,88,92,90,4.6
+Port of Spain,Trinidad and Tobago,Saint George,South America,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,0,1,78,60,55,4.0
+Georgetown,Guyana,Demerara-Mahaica,South America,Nature,Budget,Tropical,Year-round,1,0,1,1,0,0,1,0,65,60,35,3.7
+Paramaribo,Suriname,Paramaribo,South America,Historical,Budget,Tropical,Year-round,0,0,1,0,0,1,0,1,68,75,30,4.0
+Bogota,Colombia,Bogota,South America,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,90,65,35,4.4
+Caracas,Venezuela,Capital District,South America,Urban,Budget,Tropical,Year-round,0,1,1,1,1,1,0,1,70,25,30,3.2
+Quito,Ecuador,Pichincha,South America,Historical,Budget,Temperate,Year-round,1,1,1,1,0,1,0,1,88,75,30,4.6
+Lima,Peru,Lima,South America,Urban,Budget,Temperate,Winter,0,1,1,0,1,1,0,1,92,70,40,4.5
+La Paz,Bolivia,La Paz,South America,Urban,Budget,Alpine,Spring,1,1,1,1,0,1,0,1,89,72,25,4.4
+Asuncion,Paraguay,Distrito Capital,South America,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,72,75,25,3.9
+Santiago,Chile,Santiago,South America,Urban,Mid-range,Mediterranean,Autumn,1,1,1,1,1,1,0,1,92,85,65,4.6
+Buenos Aires,Argentina,Buenos Aires,South America,Urban,Mid-range,Temperate,Autumn,0,1,1,0,0,1,0,1,94,75,55,4.6
+Montevideo,Uruguay,Montevideo,South America,Urban,Mid-range,Temperate,Summer,0,1,1,0,1,1,0,1,85,90,70,4.5
+Brasilia,Brazil,Federal District,South America,Urban,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,82,82,60,4.2
+Rabat,Morocco,Rabat-Salé-Kénitra,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,88,90,40,4.5
+Nouakchott,Mauritania,Nouakchott,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,55,70,35,3.2
+Dakar,Senegal,Dakar,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,78,35,4.2
+Banjul,Gambia,Banjul,Africa,Beach,Budget,Tropical,Winter,1,1,1,0,1,0,0,1,72,82,25,4.0
+Bissau,Guinea-Bissau,Bissau,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,58,60,25,3.2
+Conakry,Guinea,Conakry,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,62,55,30,3.3
+Freetown,Sierra Leone,Western Area,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,60,30,3.6
+Monrovia,Liberia,Montserrado,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,60,55,35,3.4
+Bamako,Mali,Bamako,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,55,30,20,3.2
+Ouagadougou,Burkina Faso,Centre,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,58,35,20,3.3
+Niamey,Niger,Niamey,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,52,35,20,3.1
+Ndjamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Khartoum,Sudan,Khartoum,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,45,20,15,2.8
+Asmara,Eritrea,Maekel,Africa,Historical,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,64,88,20,4.3
+Djibouti City,Djibouti,Djibouti,Africa,Urban,Mid-range,Desert,Winter,1,0,1,0,1,0,0,1,62,85,85,3.5
+Addis Ababa,Ethiopia,Addis Ababa,Africa,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,84,75,25,4.1
+Mogadishu,Somalia,Banaadir,Africa,Beach,Budget,Tropical,Winter,0,0,0,0,1,0,0,0,30,10,15,2.0
+Nairobi,Kenya,Nairobi,Africa,Urban,Mid-range,Temperate,Year-round,1,1,1,0,0,1,1,1,87,60,45,4.5
+Kampala,Uganda,Kampala,Africa,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,78,70,25,4.1
+Kigali,Rwanda,Kigali,Africa,Urban,Budget,Temperate,Year-round,0,0,1,0,0,1,0,1,82,96,35,4.6
+Bujumbura,Burundi,Bujumbura Mairie,Africa,Urban,Budget,Tropical,Year-round,0,0,1,0,1,0,0,1,55,40,25,3.1
+Dodoma,Tanzania,Dodoma,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,0,1,65,85,25,3.4
+Victoria,Seychelles,Mahé,Africa,Island,Luxury,Tropical,Year-round,1,0,1,0,1,1,1,1,90,95,98,4.8
+Moroni,Comoros,Grande Comore,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,0,0,60,75,40,3.6
+Antananarivo,Madagascar,Analamanga,Africa,Urban,Budget,Temperate,Autumn,0,0,1,0,0,1,1,1,70,65,25,3.8
+Port Louis,Mauritius,Port Louis,Africa,Island,Luxury,Tropical,Year-round,1,1,1,0,1,1,1,1,92,94,90,4.7
+Lilongwe,Malawi,Central Region,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,1,1,65,85,25,3.5
+Lusaka,Zambia,Lusaka,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,1,1,72,80,35,4.0
+Harare,Zimbabwe,Harare,Africa,Urban,Budget,Temperate,Winter,0,1,1,0,0,1,1,1,74,65,30,3.7
+Maputo,Mozambique,Maputo City,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,76,70,40,4.1
+Gaborone,Botswana,South-East,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,1,1,70,92,55,4.2
+Windhoek,Namibia,Khomas,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,75,90,55,4.2
+Pretoria,South Africa,Gauteng,Africa,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,1,1,85,60,55,4.1
+Mbabane,Eswatini,Hhohho,Africa,Nature,Budget,Temperate,Summer,1,0,1,1,0,1,1,1,68,88,30,4.2
+Maseru,Lesotho,Maseru,Africa,Mountain,Budget,Temperate,Summer,1,0,1,1,0,1,0,0,65,85,25,4.1
+Luanda,Angola,Luanda,Africa,Urban,Luxury,Tropical,Winter,0,1,1,0,1,1,0,1,72,45,95,3.6
+Kinshasa,DR Congo,Kinshasa,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,0,0,1,70,35,50,3.4
+Brazzaville,Congo,Brazzaville,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,62,65,45,3.5
+Libreville,Gabon,Estuaire,Africa,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,1,1,68,75,70,3.8
+Malabo,Equatorial Guinea,Bioko Norte,Africa,Urban,Luxury,Tropical,Winter,0,0,1,0,1,1,0,1,65,80,100,3.5
+Yaounde,Cameroon,Centre,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,68,65,35,3.6
+Bangui,Central African Republic,Ombella-M'Poko,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,0,1,1,35,10,25,2.2
+N'Djamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Abuja,Nigeria,FCT,Africa,Urban,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,78,60,55,3.9
+Porto-Novo,Benin,Oueme,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,62,75,25,3.5
+Lome,Togo,Maritime,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,78,25,3.7
+Accra,Ghana,Greater Accra,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,85,35,4.3
+Yamoussoukro,Ivory Coast,Lacs,Africa,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,60,70,40,3.4
+Praia,Cape Verde,Santiago,Africa,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,78,88,55,4.2
+Sao Tome,Sao Tome and Principe,Agua Grande,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,1,0,70,92,40,4.3
+Cairo,Egypt,Cairo,Africa,Historical,Budget,Desert,Winter,0,1,1,0,0,1,0,1,95,65,30,4.4
+Tripoli,Libya,Tripoli,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,40,15,20,2.5
+Tunis,Tunisia,Tunis,Africa,Historical,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,85,82,30,4.3
+Algiers,Algeria,Algiers,Africa,Urban,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,74,75,30,3.9
+Rabat,Morocco,Rabat-Salé-Kénitra,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,88,90,40,4.5
+Nouakchott,Mauritania,Nouakchott,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,55,70,35,3.2
+Dakar,Senegal,Dakar,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,78,35,4.2
+Banjul,Gambia,Banjul,Africa,Beach,Budget,Tropical,Winter,1,1,1,0,1,0,0,1,72,82,25,4.0
+Bissau,Guinea-Bissau,Bissau,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,58,60,25,3.2
+Conakry,Guinea,Conakry,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,62,55,30,3.3
+Freetown,Sierra Leone,Western Area,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,60,30,3.6
+Monrovia,Liberia,Montserrado,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,60,55,35,3.4
+Bamako,Mali,Bamako,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,55,30,20,3.2
+Ouagadougou,Burkina Faso,Centre,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,58,35,20,3.3
+Niamey,Niger,Niamey,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,52,35,20,3.1
+Ndjamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Khartoum,Sudan,Khartoum,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,45,20,15,2.8
+Asmara,Eritrea,Maekel,Africa,Historical,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,64,88,20,4.3
+Djibouti City,Djibouti,Djibouti,Africa,Urban,Mid-range,Desert,Winter,1,0,1,0,1,0,0,1,62,85,85,3.5
+Addis Ababa,Ethiopia,Addis Ababa,Africa,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,84,75,25,4.1
+Mogadishu,Somalia,Banaadir,Africa,Beach,Budget,Tropical,Winter,0,0,0,0,1,0,0,0,30,10,15,2.0
+Nairobi,Kenya,Nairobi,Africa,Urban,Mid-range,Temperate,Year-round,1,1,1,0,0,1,1,1,87,60,45,4.5
+Kampala,Uganda,Kampala,Africa,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,78,70,25,4.1
+Kigali,Rwanda,Kigali,Africa,Urban,Budget,Temperate,Year-round,0,0,1,0,0,1,0,1,82,96,35,4.6
+Bujumbura,Burundi,Bujumbura Mairie,Africa,Urban,Budget,Tropical,Year-round,0,0,1,0,1,0,0,1,55,40,25,3.1
+Dodoma,Tanzania,Dodoma,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,0,1,65,85,25,3.4
+Victoria,Seychelles,Mahé,Africa,Island,Luxury,Tropical,Year-round,1,0,1,0,1,1,1,1,90,95,98,4.8
+Moroni,Comoros,Grande Comore,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,0,0,60,75,40,3.6
+Antananarivo,Madagascar,Analamanga,Africa,Urban,Budget,Temperate,Autumn,0,0,1,0,0,1,1,1,70,65,25,3.8
+Port Louis,Mauritius,Port Louis,Africa,Island,Luxury,Tropical,Year-round,1,1,1,0,1,1,1,1,92,94,90,4.7
+Lilongwe,Malawi,Central Region,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,1,1,65,85,25,3.5
+Lusaka,Zambia,Lusaka,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,1,1,72,80,35,4.0
+Harare,Zimbabwe,Harare,Africa,Urban,Budget,Temperate,Winter,0,1,1,0,0,1,1,1,74,65,30,3.7
+Maputo,Mozambique,Maputo City,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,76,70,40,4.1
+Gaborone,Botswana,South-East,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,1,1,70,92,55,4.2
+Windhoek,Namibia,Khomas,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,75,90,55,4.2
+Pretoria,South Africa,Gauteng,Africa,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,1,1,85,60,55,4.1
+Mbabane,Eswatini,Hhohho,Africa,Nature,Budget,Temperate,Summer,1,0,1,1,0,1,1,1,68,88,30,4.2
+Maseru,Lesotho,Maseru,Africa,Mountain,Budget,Temperate,Summer,1,0,1,1,0,1,0,0,65,85,25,4.1
+Luanda,Angola,Luanda,Africa,Urban,Luxury,Tropical,Winter,0,1,1,0,1,1,0,1,72,45,95,3.6
+Kinshasa,DR Congo,Kinshasa,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,0,0,1,70,35,50,3.4
+Brazzaville,Congo,Brazzaville,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,62,65,45,3.5
+Libreville,Gabon,Estuaire,Africa,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,1,1,68,75,70,3.8
+Malabo,Equatorial Guinea,Bioko Norte,Africa,Urban,Luxury,Tropical,Winter,0,0,1,0,1,1,0,1,65,80,100,3.5
+Yaounde,Cameroon,Centre,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,68,65,35,3.6
+Bangui,Central African Republic,Ombella-M'Poko,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,0,1,1,35,10,25,2.2
+N'Djamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Abuja,Nigeria,FCT,Africa,Urban,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,78,60,55,3.9
+Porto-Novo,Benin,Oueme,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,62,75,25,3.5
+Lome,Togo,Maritime,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,78,25,3.7
+Accra,Ghana,Greater Accra,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,85,35,4.3
+Yamoussoukro,Ivory Coast,Lacs,Africa,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,60,70,40,3.4
+Praia,Cape Verde,Santiago,Africa,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,78,88,55,4.2
+Sao Tome,Sao Tome and Principe,Agua Grande,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,1,0,70,92,40,4.3
+Cairo,Egypt,Cairo,Africa,Historical,Budget,Desert,Winter,0,1,1,0,0,1,0,1,95,65,30,4.4
+Tripoli,Libya,Tripoli,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,40,15,20,2.5
+Tunis,Tunisia,Tunis,Africa,Historical,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,85,82,30,4.3
+Algiers,Algeria,Algiers,Africa,Urban,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,74,75,30,3.9
+Rabat,Morocco,Rabat-Salé-Kénitra,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,88,90,40,4.5
+Nouakchott,Mauritania,Nouakchott,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,55,70,35,3.2
+Dakar,Senegal,Dakar,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,78,35,4.2
+Banjul,Gambia,Banjul,Africa,Beach,Budget,Tropical,Winter,1,1,1,0,1,0,0,1,72,82,25,4.0
+Bissau,Guinea-Bissau,Bissau,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,58,60,25,3.2
+Conakry,Guinea,Conakry,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,62,55,30,3.3
+Freetown,Sierra Leone,Western Area,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,60,30,3.6
+Monrovia,Liberia,Montserrado,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,60,55,35,3.4
+Bamako,Mali,Bamako,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,55,30,20,3.2
+Ouagadougou,Burkina Faso,Centre,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,58,35,20,3.3
+Niamey,Niger,Niamey,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,52,35,20,3.1
+Ndjamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Khartoum,Sudan,Khartoum,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,45,20,15,2.8
+Asmara,Eritrea,Maekel,Africa,Historical,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,64,88,20,4.3
+Djibouti City,Djibouti,Djibouti,Africa,Urban,Mid-range,Desert,Winter,1,0,1,0,1,0,0,1,62,85,85,3.5
+Addis Ababa,Ethiopia,Addis Ababa,Africa,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,84,75,25,4.1
+Mogadishu,Somalia,Banaadir,Africa,Beach,Budget,Tropical,Winter,0,0,0,0,1,0,0,0,30,10,15,2.0
+Nairobi,Kenya,Nairobi,Africa,Urban,Mid-range,Temperate,Year-round,1,1,1,0,0,1,1,1,87,60,45,4.5
+Kampala,Uganda,Kampala,Africa,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,78,70,25,4.1
+Kigali,Rwanda,Kigali,Africa,Urban,Budget,Temperate,Year-round,0,0,1,0,0,1,0,1,82,96,35,4.6
+Bujumbura,Burundi,Bujumbura Mairie,Africa,Urban,Budget,Tropical,Year-round,0,0,1,0,1,0,0,1,55,40,25,3.1
+Dodoma,Tanzania,Dodoma,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,0,1,65,85,25,3.4
+Victoria,Seychelles,Mahé,Africa,Island,Luxury,Tropical,Year-round,1,0,1,0,1,1,1,1,90,95,98,4.8
+Moroni,Comoros,Grande Comore,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,0,0,60,75,40,3.6
+Antananarivo,Madagascar,Analamanga,Africa,Urban,Budget,Temperate,Autumn,0,0,1,0,0,1,1,1,70,65,25,3.8
+Port Louis,Mauritius,Port Louis,Africa,Island,Luxury,Tropical,Year-round,1,1,1,0,1,1,1,1,92,94,90,4.7
+Lilongwe,Malawi,Central Region,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,1,1,65,85,25,3.5
+Lusaka,Zambia,Lusaka,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,1,1,72,80,35,4.0
+Harare,Zimbabwe,Harare,Africa,Urban,Budget,Temperate,Winter,0,1,1,0,0,1,1,1,74,65,30,3.7
+Maputo,Mozambique,Maputo City,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,76,70,40,4.1
+Gaborone,Botswana,South-East,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,1,1,70,92,55,4.2
+Windhoek,Namibia,Khomas,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,75,90,55,4.2
+Pretoria,South Africa,Gauteng,Africa,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,1,1,85,60,55,4.1
+Mbabane,Eswatini,Hhohho,Africa,Nature,Budget,Temperate,Summer,1,0,1,1,0,1,1,1,68,88,30,4.2
+Maseru,Lesotho,Maseru,Africa,Mountain,Budget,Temperate,Summer,1,0,1,1,0,1,0,0,65,85,25,4.1
+Luanda,Angola,Luanda,Africa,Urban,Luxury,Tropical,Winter,0,1,1,0,1,1,0,1,72,45,95,3.6
+Kinshasa,DR Congo,Kinshasa,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,0,0,1,70,35,50,3.4
+Brazzaville,Congo,Brazzaville,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,0,1,62,65,45,3.5
+Libreville,Gabon,Estuaire,Africa,Urban,Mid-range,Tropical,Winter,0,1,1,0,1,1,1,1,68,75,70,3.8
+Malabo,Equatorial Guinea,Bioko Norte,Africa,Urban,Luxury,Tropical,Winter,0,0,1,0,1,1,0,1,65,80,100,3.5
+Yaounde,Cameroon,Centre,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,68,65,35,3.6
+Bangui,Central African Republic,Ombella-M'Poko,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,0,0,1,1,35,10,25,2.2
+N'Djamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Abuja,Nigeria,FCT,Africa,Urban,Mid-range,Tropical,Winter,0,0,1,0,0,1,0,1,78,60,55,3.9
+Porto-Novo,Benin,Oueme,Africa,Urban,Budget,Tropical,Winter,0,0,1,0,1,1,0,1,62,75,25,3.5
+Lome,Togo,Maritime,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,78,25,3.7
+Accra,Ghana,Greater Accra,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,82,85,35,4.3
+Yamoussoukro,Ivory Coast,Lacs,Africa,Religious,Budget,Tropical,Winter,0,0,1,0,0,1,0,1,60,70,40,3.4
+Praia,Cape Verde,Santiago,Africa,Island,Mid-range,Tropical,Winter,1,1,1,0,1,1,0,1,78,88,55,4.2
+Sao Tome,Sao Tome and Principe,Agua Grande,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,1,0,70,92,40,4.3
+Cairo,Egypt,Cairo,Africa,Historical,Budget,Desert,Winter,0,1,1,0,0,1,0,1,95,65,30,4.4
+Tripoli,Libya,Tripoli,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,40,15,20,2.5
+Tunis,Tunisia,Tunis,Africa,Historical,Budget,Mediterranean,Spring,0,1,1,0,1,1,0,1,85,82,30,4.3
+Algiers,Algeria,Algiers,Africa,Urban,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,74,75,30,3.9
+Rabat,Morocco,Rabat-Salé-Kénitra,Africa,Historical,Budget,Mediterranean,Spring,0,0,1,0,1,1,0,1,88,90,40,4.5
+Nouakchott,Mauritania,Nouakchott,Africa,Urban,Budget,Desert,Winter,0,0,1,0,1,1,0,1,55,70,35,3.2
+Dakar,Senegal,Dakar,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,80,78,35,4.2
+Banjul,Gambia,Banjul,Africa,Beach,Budget,Tropical,Winter,1,1,1,0,1,0,0,1,72,82,25,4.0
+Bissau,Guinea-Bissau,Bissau,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,58,60,25,3.2
+Conakry,Guinea,Conakry,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,62,55,30,3.3
+Freetown,Sierra Leone,Western Area,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,65,60,30,3.6
+Monrovia,Liberia,Montserrado,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,1,0,0,1,60,55,35,3.4
+Bamako,Mali,Bamako,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,55,30,20,3.2
+Ouagadougou,Burkina Faso,Centre,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,58,35,20,3.3
+Niamey,Niger,Niamey,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,52,35,20,3.1
+Ndjamena,Chad,Chari-Baguirmi,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,48,30,25,3.0
+Khartoum,Sudan,Khartoum,Africa,Urban,Budget,Desert,Winter,0,0,1,0,0,1,0,1,45,20,15,2.8
+Asmara,Eritrea,Maekel,Africa,Historical,Budget,Temperate,Spring,0,0,1,0,0,1,0,1,64,88,20,4.3
+Djibouti City,Djibouti,Djibouti,Africa,Urban,Mid-range,Desert,Winter,1,0,1,0,1,0,0,1,62,85,85,3.5
+Addis Ababa,Ethiopia,Addis Ababa,Africa,Urban,Budget,Temperate,Year-round,0,1,1,0,0,1,0,1,84,75,25,4.1
+Mogadishu,Somalia,Banaadir,Africa,Beach,Budget,Tropical,Winter,0,0,0,0,1,0,0,0,30,10,15,2.0
+Nairobi,Kenya,Nairobi,Africa,Urban,Mid-range,Temperate,Year-round,1,1,1,0,0,1,1,1,87,60,45,4.5
+Kampala,Uganda,Kampala,Africa,Urban,Budget,Tropical,Year-round,0,1,1,0,0,1,0,1,78,70,25,4.1
+Kigali,Rwanda,Kigali,Africa,Urban,Budget,Temperate,Year-round,0,0,1,0,0,1,0,1,82,96,35,4.6
+Bujumbura,Burundi,Bujumbura Mairie,Africa,Urban,Budget,Tropical,Year-round,0,0,1,0,1,0,0,1,55,40,25,3.1
+Dodoma,Tanzania,Dodoma,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,0,1,65,85,25,3.4
+Victoria,Seychelles,Mahé,Africa,Island,Luxury,Tropical,Year-round,1,0,1,0,1,1,1,1,90,95,98,4.8
+Moroni,Comoros,Grande Comore,Africa,Island,Budget,Tropical,Winter,1,0,1,0,1,1,0,0,60,75,40,3.6
+Antananarivo,Madagascar,Analamanga,Africa,Urban,Budget,Temperate,Autumn,0,0,1,0,0,1,1,1,70,65,25,3.8
+Port Louis,Mauritius,Port Louis,Africa,Island,Luxury,Tropical,Year-round,1,1,1,0,1,1,1,1,92,94,90,4.7
+Lilongwe,Malawi,Central Region,Africa,Urban,Budget,Temperate,Winter,0,0,1,0,0,1,1,1,65,85,25,3.5
+Lusaka,Zambia,Lusaka,Africa,Urban,Budget,Tropical,Winter,0,1,1,0,0,1,1,1,72,80,35,4.0
+Harare,Zimbabwe,Harare,Africa,Urban,Budget,Temperate,Winter,0,1,1,0,0,1,1,1,74,65,30,3.7
+Maputo,Mozambique,Maputo City,Africa,Beach,Budget,Tropical,Winter,0,1,1,0,1,1,0,1,76,70,40,4.1
+Gaborone,Botswana,South-East,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,1,1,70,92,55,4.2
+Windhoek,Namibia,Khomas,Africa,Urban,Mid-range,Desert,Winter,0,0,1,0,0,1,0,1,75,90,55,4.2
+Pretoria,South Africa,Gauteng,Africa,Urban,Mid-range,Temperate,Spring,0,1,1,0,0,1,1,1,85,60,55,4.1
+Mbabane,Eswatini,Hhohho,Africa,Nature,Budget,Temperate,Summer,1,0,1,1,0,1,1,1,68,88,30,4.2
