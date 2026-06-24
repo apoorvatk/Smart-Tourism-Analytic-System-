@@ -11,6 +11,8 @@ import dest_recommendation
 from dash import show_dashboard
 from login import show_login
 
+print("OPEN_ROUTER_API_KEY:", bool(os.getenv("OPEN_ROUTER_API_KEY")))
+print("WEATHER_API_KEY:", bool(os.getenv("WEATHER_API_KEY")))
 warnings.filterwarnings("ignore")
 
 # =========================
