@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-csv_path = os.path.join(BASE_DIR, "hotels.csv")
+csv_path = os.path.join(BASE_DIR, "hotels_small.csv")
 
 
 # =========================================================
