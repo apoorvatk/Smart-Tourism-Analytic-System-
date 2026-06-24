@@ -11,6 +11,10 @@ import dest_recommendation
 from dash import show_dashboard
 from login import show_login
 
+import streamlit as st
+
+st.write("DEBUG SECRET KEYS:", list(st.secrets.keys()))
+
 warnings.filterwarnings("ignore")
 
 # =========================
