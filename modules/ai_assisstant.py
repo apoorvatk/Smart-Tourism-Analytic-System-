@@ -1,20 +1,14 @@
 import requests
-import streamlit as st
+import os
+from dotenv import load_dotenv
 
-# =========================
-# SAFE SECRET HANDLING
-# =========================
-OPEN_ROUTER_API_KEY = st.secrets.get("OPEN_ROUTER_API_KEY")
+load_dotenv()
 
-if not OPEN_ROUTER_API_KEY:
-    raise ValueError("❌ OPEN_ROUTER_API_KEY not found in Streamlit secrets")
+OPEN_ROUTER_API_KEY = os.getenv("OPEN_ROUTER_API_KEY")
 
 URL = "https://openrouter.ai/api/v1/chat/completions"
 
 
-# =========================
-# PROMPT ENGINE
-# =========================
 def build_prompt(query: str) -> str:
     return f"""
 You are an expert AI Travel Planner.
@@ -23,7 +17,6 @@ Destination Request:
 {query}
 
 Generate:
-
 1. Destination Overview
 2. Best Time To Visit
 3. Day Wise Itinerary
@@ -34,46 +27,34 @@ Generate:
 8. Travel Tips
 9. Safety Tips
 10. Packing Suggestions
-
-Provide detailed and structured information.
 """
 
 
-# =========================
-# MAIN FUNCTION
-# =========================
-def get_travel_plan(query: str) -> str:
+def get_travel_plan(query: str):
 
-    prompt = build_prompt(query)
+    if not OPEN_ROUTER_API_KEY:
+        return "❌ OPEN_ROUTER_API_KEY missing in .env"
 
     try:
         response = requests.post(
             URL,
             headers={
                 "Authorization": f"Bearer {OPEN_ROUTER_API_KEY}",
-                "Content-Type": "application/json",
-                "HTTP-Referer": "https://streamlit.io",
-                "X-Title": "Smart Tourism App"
+                "Content-Type": "application/json"
             },
             json={
                 "model": "deepseek/deepseek-chat-v3-0324",
                 "messages": [
-                    {"role": "user", "content": prompt}
+                    {"role": "user", "content": build_prompt(query)}
                 ]
             },
             timeout=60
         )
 
-        # Debug-safe response handling
         if response.status_code != 200:
-            return f"❌ OpenRouter API Error {response.status_code}\n{response.text}"
+            return f"❌ API Error {response.status_code}: {response.text}"
 
-        data = response.json()
-
-        return data["choices"][0]["message"]["content"]
-
-    except requests.exceptions.Timeout:
-        return "❌ Request timed out. Please try again."
+        return response.json()["choices"][0]["message"]["content"]
 
     except Exception as e:
-        return f"❌ Unexpected error: {str(e)}"
+        return f"❌ Error: {str(e)}"
