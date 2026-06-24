@@ -1,15 +1,23 @@
 import requests
-
 import streamlit as st
 
+# =========================
+# SAFE SECRET HANDLING
+# =========================
+WEATHER_API_KEY = st.secrets.get("WEATHER_API_KEY")
+
+if not WEATHER_API_KEY:
+    raise ValueError("❌ WEATHER_API_KEY not found in Streamlit secrets")
 
 
-WEATHER_API_KEY = st.secrets.get("WEATHER_API_KEY", "")
+# =========================
+# CURRENT WEATHER
+# =========================
+def get_weather(city: str):
 
-def get_weather(city):
     try:
         url = (
-            f"https://api.openweathermap.org/data/2.5/weather"
+            "https://api.openweathermap.org/data/2.5/weather"
             f"?q={city}&appid={WEATHER_API_KEY}&units=metric"
         )
 
@@ -32,10 +40,14 @@ def get_weather(city):
         return None
 
 
-def get_weather_for_travel_date(city, travel_date):
+# =========================
+# FORECAST
+# =========================
+def get_weather_for_travel_date(city: str, travel_date: str):
+
     try:
         url = (
-            f"https://api.openweathermap.org/data/2.5/forecast"
+            "https://api.openweathermap.org/data/2.5/forecast"
             f"?q={city}&appid={WEATHER_API_KEY}&units=metric"
         )
 
@@ -47,8 +59,8 @@ def get_weather_for_travel_date(city, travel_date):
 
         result = []
 
-        for item in data["list"]:
-            if travel_date in item["dt_txt"]:
+        for item in data.get("list", []):
+            if travel_date in item.get("dt_txt", ""):
                 result.append({
                     "datetime": item["dt_txt"],
                     "temperature": item["main"]["temp"],

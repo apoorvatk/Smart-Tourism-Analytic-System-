@@ -1,12 +1,20 @@
 import requests
 import streamlit as st
 
+# =========================
+# SAFE SECRET HANDLING
+# =========================
+OPEN_ROUTER_API_KEY = st.secrets.get("OPEN_ROUTER_API_KEY")
 
-OPEN_ROUTER_API_KEY = st.secrets.get("OPEN_ROUTER_API_KEY", "")
+if not OPEN_ROUTER_API_KEY:
+    raise ValueError("❌ OPEN_ROUTER_API_KEY not found in Streamlit secrets")
 
 URL = "https://openrouter.ai/api/v1/chat/completions"
 
 
+# =========================
+# PROMPT ENGINE
+# =========================
 def build_prompt(query: str) -> str:
     return f"""
 You are an expert AI Travel Planner.
@@ -31,10 +39,10 @@ Provide detailed and structured information.
 """
 
 
+# =========================
+# MAIN FUNCTION
+# =========================
 def get_travel_plan(query: str) -> str:
-
-    if not OPEN_ROUTER_API_KEY:
-        return "❌ OpenRouter API key not found."
 
     prompt = build_prompt(query)
 
@@ -43,29 +51,29 @@ def get_travel_plan(query: str) -> str:
             URL,
             headers={
                 "Authorization": f"Bearer {OPEN_ROUTER_API_KEY}",
-                "Content-Type": "application/json"
+                "Content-Type": "application/json",
+                "HTTP-Referer": "https://streamlit.io",
+                "X-Title": "Smart Tourism App"
             },
             json={
                 "model": "deepseek/deepseek-chat-v3-0324",
                 "messages": [
-                    {
-                        "role": "user",
-                        "content": prompt
-                    }
+                    {"role": "user", "content": prompt}
                 ]
             },
             timeout=60
         )
 
+        # Debug-safe response handling
         if response.status_code != 200:
-            return f"❌ API Error {response.status_code}\n\n{response.text}"
+            return f"❌ OpenRouter API Error {response.status_code}\n{response.text}"
 
-        result = response.json()
+        data = response.json()
 
-        return result["choices"][0]["message"]["content"]
+        return data["choices"][0]["message"]["content"]
 
     except requests.exceptions.Timeout:
-        return "❌ Request timed out."
+        return "❌ Request timed out. Please try again."
 
     except Exception as e:
-        return f"❌ Error: {str(e)}"
+        return f"❌ Unexpected error: {str(e)}"
