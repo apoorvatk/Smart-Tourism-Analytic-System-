@@ -5,7 +5,7 @@ import streamlit as st
 
 load_dotenv()
 
-OPEN_ROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"]
+OPEN_ROUTER_API_KEY = st.secrets["OPEN_ROUTER_API_KEY"]
 
 URL = "https://openrouter.ai/api/v1/chat/completions"
 
