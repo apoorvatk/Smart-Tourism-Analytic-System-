@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 WEATHER_API_KEY = os.getenv("WEATHER_API_KEY")
+print("WEATHER_API_KEY exists:", bool(os.getenv("WEATHER_API_KEY")))
 
 if not WEATHER_API_KEY:
     raise ValueError("❌ WEATHER_API_KEY not found in .env file")
